@@ -75,7 +75,7 @@ Normal saline or contrast media may be used to propel residual oil-based contras
 *above*: contrast extravasation (arrow) from hole created by previous access of the cisterna chyli. note contrast in cc from the first thoracic duct embolization (arrowhead)
 
 ### results
-- tde only with coils has lower clinical success rate than combo of coils + n-BCA (84% vs 91%)
+- TDE only with coils has lower clinical success rate than combo of coils + n-BCA (84% vs 91%)
 - overall intent-to-treat success rate 71%
 	- success rate directly relates to ability to catheterize cc and td
 	- when technically successful, clinical success 90%
@@ -96,10 +96,8 @@ Normal saline or contrast media may be used to propel residual oil-based contras
 
 ---
 
-**related**
-- treats :: [[chylous effusion\|chylous effusion]]
-- [[../../the rest/3. resources/ir.kandarpa_048\|kandarpa - thoracic duct embolization for chylothorax]]
+> [!abstract]- references
+> - [[../../the rest/3. resources/ir.kandarpa_048\|kandarpa - thoracic duct embolization for chylothorax]]
+> - https://www.sciencedirect.com/science/article/pii/S1522294216300356
+> - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3140251/
 
-**references:**
-- https://www.sciencedirect.com/science/article/pii/S1522294216300356
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3140251/
