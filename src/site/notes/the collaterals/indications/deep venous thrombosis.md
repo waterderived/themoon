@@ -105,6 +105,24 @@ Based on patient pretest probability, initial test may be either **D-dimer** or 
 
 
 ### management
+#### approach
+
+
+#### expectant management
+
+
+#### secondary prevention
+
+
+#### advanced therapy
+- **catheter-directed thrombolysis**
+- **[[DVT thrombectomy\|DVT thrombectomy]]**
+- **[[ivc filter placement\|IVC filter placement]]**
+
+#### supportive care
+
+
+#### disposition
 
 
 ### prevention
@@ -124,7 +142,6 @@ It should be chosen based on presence of risk factors for VTE and estimated risk
 	- seriously ill medical patients: **at least 7 days** (extend to span duration of hospitalization)
 	- surgical patients: consider extended therapy for **> 3 weeks**
 		- based on type of surgery, degree of restricted mobility, etc
-
 
 
 ### subtypes and variants
