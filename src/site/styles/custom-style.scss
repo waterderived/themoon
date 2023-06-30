@@ -4,9 +4,9 @@ body {
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
     //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
+.content {
+font-size: 10px;
+}
     //  h1 {
     //   color: black;
     //  }
@@ -488,4 +488,80 @@ div.callout[data-callout*=fire] .callout-fold {
 }
 
 /* end of all the callout code */
+
+/* blockquote things */
+	
+body {
+  --blockquote-border-thickness: 0;
+  --blockquote-size: .7rem;
+  --blockquote-font-style: inherit;
+  --blockquote-color: inherit;
+  --blockquote-background-color: inherit;
+  --blockquote-border-color: var(--background-modifier-border);
+}
+
+.markdown-rendered blockquote {
+  font-size: var(--blockquote-size);
+  color: var(--blockquote-color);
+  font-style: var(--blockquote-font-style);
+  background-color: var(--blockquote-background-color);
+  border-left: var(--blockquote-border-thickness) solid var(--blockquote-border-color);
+  border-radius: 8px;
+  margin-top: 1.5em;
+  padding: 12px 16px 12px 16px;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  quotes: "\201c" "\201d" "\2018" "\2019";
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.01), 0 4px 8px rgba(0, 0, 0, 0.01),
+  0 4px 8px rgba(0, 0, 0, 0.02), 0 2.3px 17.9px rgba(0, 0, 0, 0.03),
+  0 12px 33.4px rgba(0, 0, 0, 0.03);
+}
+
+.blockquote-marker .markdown-rendered blockquote {
+  border-left: none;
+}
+
+.blockquote-marker .markdown-rendered blockquote:before {
+  content: "";
+  display: block;
+  margin-bottom: 4px;
+  height: var(--blockquote-border-thickness);
+  width: 32px;
+  background: var(--blockquote-border-color);
+  background-size: 16px 2px;
+}
+
+.blockquote-border .markdown-rendered blockquote {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  border-top: var(--blockquote-border-thickness) solid var(--blockquote-border-color);
+  border-bottom: var(--blockquote-border-thickness) solid var(--blockquote-border-color);
+  border-left: none;
+}
+
+.blockquote-border .markdown-rendered blockquote::before {
+  content: none;
+  width: 0;
+  background: none;
+}
+
+.cm-s-obsidian span.cm-quote {
+  color: var(--blockquote-color);
+}
+
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote {
+  font-style: var(--blockquote-style);
+  border: 0 solid var(--blockquote-border-color);
+  border-left-width: var(--blockquote-border-thickness);
+  background-color: var(--blockquote-background-color);
+}
+
+.blockquote-marker .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote {
+  border-left: none;
+}
+
+.blockquote-marker .markdown-source-view.mod-cm6 .cm-blockquote-border {
+  border-left: none;
+}
+
 }
