@@ -51,8 +51,8 @@ rest pain occurs as disease progresses and indicates **severe ischemia**
 - worsens with reclining (e.g. while sleeping)
 - improves on hanging feet off the bed or standing
 
-#### [[critical limb ischemia\|critical limb ischemia]] (cli)
-- indicative of limb-threatening arterial occlusion
+#### critical limb ischemia (CLI)
+- [[critical limb ischemia\|CLI]] is indicative of limb-threatening arterial occlusion
 - characterized by the presence of **any one** of the following:
 	- **rest pain** lasting ≥ **2 weeks**
 	- nonhealing ulcers
@@ -80,7 +80,7 @@ rest pain occurs as disease progresses and indicates **severe ischemia**
 		- venous filling time of > 20 seconds may indicate advanced ischemia
 - **bruit** over the affected artery may be heard in > 60-70% cases with PAD
 
-![[Pasted image 20230611150143.png\|Pasted image 20230611150143.png]]
+![Pasted image 20230629225622.png|450](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629225622.png)
 
 
 ### classification
