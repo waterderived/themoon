@@ -245,27 +245,24 @@ breaks down LE PAD into 3 subsets (**aortoiliac, femoral-popliteal, tibioperonea
 	- limitations: low sensitivity for multilevel stenoses and aortoiliac disease
 	- findings: elevated peak systolic velocity (PSV) and PSV ratio suggest PAD
 
-![[Pasted image 20230624163108.png\|250]]
-![[Pasted image 20230624163118.png\|250]]
+![Pasted image 20230629234145.png](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629234145.png)
 
 **Stenosis of the superficial femoral artery** | MR angiography abdominal aorta with runoff of a patient with load-dependent right leg pain when walking
 There is stenosis of the right superficial femoral artery (red overlay). Consequently, the deep femoral artery and its branches (green overlay) show increased blood flow and tortuosity. Collateral filling (anterograde and retrograde arrows) of the (superficial) femoral artery distal to the stenosis is seen.
 1: aorta; 2: common iliac artery; 3: external iliac artery; 4: internal iliac artery; 5: common femoral artery; 6: deep femoral artery; 7: (superficial) femoral artery
 
-![[Pasted image 20230624163640.png\|200]]
-![[Pasted image 20230624163652.png\|200]]
+
+![Pasted image 20230629234321.png|400](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629234321.png)
 
 **Multilevel peripheral arterial disease of the lower limbs** | MR angiography lower limbs
 Numerous stenoses (examples indicated by arrows) are present, and portions of several bilateral pelvic, femoral, and lower limb arteries are not visible.
 
-![[Pasted image 20230624163757.png\|300]]
-![[Pasted image 20230624163808.png\|300]]
+![Pasted image 20230629234433.png](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629234433.png)
 
 **Peripheral arterial disease with iliac occlusion** | Digital subtraction angiography (pelvis)
 There is occlusion of the left internal (IIA) and external (EIA) iliac arteries (locations indicated by green overlay) with collateral blood flow.
 
-![[Pasted image 20230624163856.png\|300]]
-![[Pasted image 20230624163906.png\|300]]
+![Pasted image 20230629234528.png](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629234528.png)
 
 **Aortoiliac occlusive disease** | Angiography (upper: abdomen; lower: pelvis)
 The abdominal aorta is occluded below the level of the renal arteries (yellow overlay). Collateral circulation (examples indicated by blue overlay) allows for reconstitution of the femoral arteries (red overlay).
