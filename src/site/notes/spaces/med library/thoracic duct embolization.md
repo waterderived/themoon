@@ -24,41 +24,41 @@
 
 ### procedure
 
-> ![Pasted image 20230629221324.png|500](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629221324.png)
+![Pasted image 20230629221324.png|500](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629221324.png)
 
 Using a high-freq (10-12 MHz) linear US probe, largest inguinal LN is targeted
 Access to bilateral inguinal LNs directly made using a fine (21-25G) needle (arrows), using shallow angle to stabilize the needle
 Needle tip positioned in the transitional zone, between the hypoechoic cortex and the hyperechoic medulla
 
-![[kitchen drawer/attachments/2021.12.18/Pasted image 20220315234318.png\|kitchen drawer/attachments/2021.12.18/Pasted image 20220315234318.png]]
+![Pasted image 20230629224533.png|300](/img/user/Pasted%20image%2020230629224533.png)
 
 Under fluoro guidance, test dose of contrast (Lipiodol Ultra-Fluid) injected slowly to confirm typical beaded appearance of efferent lymphatics in one or more channels
 
-![[kitchen drawer/attachments/2021.12.18/Pasted image 20220315235018.png\|kitchen drawer/attachments/2021.12.18/Pasted image 20220315235018.png]]
+![Pasted image 20230629224600.png|300](/img/user/Pasted%20image%2020230629224600.png)
 
 Fluoro demonstrates advancement of contrast column through lymphatics
 Transit time is variable but cisterna chyli and thoracic duct are opacified (arrow)
 
-![[kitchen drawer/attachments/2021.12.18/Pasted image 20220315235115.png\|kitchen drawer/attachments/2021.12.18/Pasted image 20220315235115.png]]
+![Pasted image 20230629224616.png|300](/img/user/Pasted%20image%2020230629224616.png)
 
 Access to lymphatic system obtained thorugh cisterna chyli or tributaries using a 22-gauge, 15-20 cm Chiba needle
 Though technically more challenging bc of smaller size of these feeders, approach inferior to the cisterna may reduce the potential of inadvertent leak after access is removed
 
-![[kitchen drawer/attachments/2021.12.18/Pasted image 20220315235225.png\|kitchen drawer/attachments/2021.12.18/Pasted image 20220315235225.png]]
+![Pasted image 20230629224632.png|300](/img/user/Pasted%20image%2020230629224632.png)
 
 A 0.018in long wire is advanced into the thoracic duct coaxially through needle
 
-![[kitchen drawer/attachments/2021.12.18/Pasted image 20220315235303.png\|kitchen drawer/attachments/2021.12.18/Pasted image 20220315235303.png]]
+![Pasted image 20230629224652.png|300](/img/user/Pasted%20image%2020230629224652.png)
 
 After needle removal, a microcatheter is introduced over the wire. 
 Contrast medium is injected into the thoracic duct though the catheter to identify the chylous leak (star)
 
-![[kitchen drawer/attachments/2021.12.18/Pasted image 20220315235656.png\|kitchen drawer/attachments/2021.12.18/Pasted image 20220315235656.png]]
+![Pasted image 20230629224712.png|300](/img/user/Pasted%20image%2020230629224712.png)
 
 Metallic microcoils are placed proximal to the point of occlusion or contrast extravasation in the thoracic duct
 N-butyl cyanocrylate (n-BCA) diluted in lipiodol is also used for embolization (coils provide scaffold for polymerization)
 
-![[kitchen drawer/attachments/2021.12.18/Pasted image 20220315235806.png\|kitchen drawer/attachments/2021.12.18/Pasted image 20220315235806.png]]
+![Pasted image 20230629224738.png|300](/img/user/Pasted%20image%2020230629224738.png)
 
 If there is no extravasation or venous filling, access needle is connected to an injection pump. 0.10-0.30 mL/min infusion rate recommended
 Intermittent fluoro monitoring required to exclude inadvertent extravasation or venous shunting, in which case a new lymph node must be injected
@@ -67,12 +67,11 @@ Normal saline or contrast media may be used to propel residual oil-based contras
 
 ### postprocedural care
 - postembolization pain generally mild
-- <u>assessing output from pleural drainage tubes</u> after embolization is critical -- if no increase, patient's diet may be advanced, chest drains removed
+- **assessing output from pleural drainage tubes after embolization** is critical -- if no increase, patient's diet may be advanced, chest drains removed
 - in patients without chest tube, <u>serial chest radiographs</u> to monitor procedure success
 	- primary cause of persistent leak after embolization: parallel ducts or leakage from percutaneous access to cc
 
-![[kitchen drawer/attachments/2021.12.18/Pasted image 20220316001717.png\|kitchen drawer/attachments/2021.12.18/Pasted image 20220316001717.png]]
-
+![Pasted image 20230629224812.png|300](/img/user/Pasted%20image%2020230629224812.png)
 *above*: contrast extravasation (arrow) from hole created by previous access of the cisterna chyli. note contrast in cc from the first thoracic duct embolization (arrowhead)
 
 ### results
