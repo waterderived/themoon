@@ -7,17 +7,9 @@ body {
 .content {
 	font-size: 11px;
 }
-.cards table.dataview thead>tr>th {
-	display: block;
-	padding: 3px 30px 3px 6px !important;
-	border-radius: var(--radius-s);
-	width: 100%;
-	font-weight: 400;
-	color: var(--text-normal);
-	cursor: var(--cursor);
-	border: none;
-	font-size: 10px;
-}
+table.dataview {
+	font-size: 11px;
+)
     //  h1 {
     //   color: black;
     //  }
