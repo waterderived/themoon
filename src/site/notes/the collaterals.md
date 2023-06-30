@@ -13,5 +13,6 @@
 [[& irProcedures\|indications & procedures]] |  [[the collaterals/c.academic.research\|clinical trials]] 
 
 
-#### update log
+#### news and updates
 
+there are no updates at this time
