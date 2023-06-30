@@ -20,9 +20,9 @@
 { .block-language-dataview}
 
 #### gastrointestinal
-| trial                                                               | title                                                              | year | topics                                                                                                                                    | source                                      |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| [[the collaterals/literature/c.lit.trial.EarlyTIPS\|Early TIPS]] | Early Use of TIPS in Patients with Cirrhosis and Variceal Bleeding | 2010 | [[portal hypertension\|portal hypertension]], [[transjugular intrahepatic portosystemic shunt\|TIPS]], [[variceal bleed\|variceal bleed]] | [📑](https://doi.org/10.1056/NEJMoa0910102) |
+| trial                                                               | title                                                              | year | topics                                                                                                                                                                  | source                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| [[the collaterals/literature/c.lit.trial.EarlyTIPS\|Early TIPS]] | Early Use of TIPS in Patients with Cirrhosis and Variceal Bleeding | 2010 | [[portal hypertension\|portal hypertension]], [[the collaterals/procedures/transjugular intrahepatic portosystemic shunt\|TIPS]], [[variceal bleed\|variceal bleed]] | [📑](https://doi.org/10.1056/NEJMoa0910102) |
 
 { .block-language-dataview}
 
