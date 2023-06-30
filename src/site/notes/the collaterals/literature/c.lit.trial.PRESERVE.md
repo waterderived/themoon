@@ -93,10 +93,9 @@ PSE and PEE
 
 
 > [!note]- info
-> nodes:: [[inferior vena cava filter\|IVC filter]], [[pulmonary embolism\|pulmonary embolism]], [[the collaterals/indications/venous thromboembolism\|VTE]]
-> layer:: ⚫
-> source:: JVIR
-> doi:: 
+> topics:: [[inferior vena cava filter\|IVC filter]], [[pulmonary embolism\|pulmonary embolism]], [[the collaterals/indications/venous thromboembolism\|VTE]]
+> source:: [📑](https://doi.org/10.1016/j.jvir.2022.12.009)
+> doi:: 10.1016/j.jvir.2022.12.009
 > citation:: 
 > clinTrialID:: NCT02381509
 
