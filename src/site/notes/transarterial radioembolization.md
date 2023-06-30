@@ -22,12 +22,10 @@
 
 ### clinical indications
 
-> [!aside] 
-> indicators of adequate hepatic reserve
+> [!note] indicators of adequate hepatic reserve
 > - total bilirubin ≤ 2 mg/dL
 > - albumin > 3 g/cL
 > - normal INR
-
 
 determining eligibility requires assessment of disease burden, biochemical parameters of liver function, and performance status
 - liver-only or liver-dominant primary or metastatic disease with a tumor burden involving **< 50%** of the liver
