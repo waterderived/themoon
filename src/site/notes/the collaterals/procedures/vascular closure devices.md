@@ -3,6 +3,9 @@
 ---
 
 
+[[the collaterals/c.ir.procedures\|← indications & procedures]]
+
+<br>
 # vascular closure devices (VCD)
 ---
 
@@ -57,9 +60,9 @@ approved for arterial access site closure and hemostasis after **retrograde comm
 
 ---
 
-> [!note]- info
-> system:: 
-> specialty:: 
+> [!note]- related
+> - **pages** | 
+> - **media**
 
 > [!abstract]- references
 > - Lewandowski R, Machan L, Patel PJ, Kandarpa K. Kandarpa Handbook of Interventional Radiologic Procedures. Lippincott Williams & Wilkins; 2023 Mar 28.
