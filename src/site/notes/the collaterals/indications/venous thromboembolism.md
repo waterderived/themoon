@@ -6,13 +6,13 @@
 ---
 
 > [!info] definition
-> umbrella term used to describe [[deep venous thrombosis\|deep vein thrombosis]] with or without [[pulmonary embolism\|pulmonary embolism]]
+> umbrella term used to describe [[the collaterals/indications/deep venous thrombosis\|deep vein thrombosis]] with or without [[pulmonary embolism\|pulmonary embolism]]
 > - **recurrent VTE** = VTE that recurs in a patient after the completion of the first 2 weeks of antithrombotic therapy
 > - **provoked VTE** = VTE in an individual with ≥ 1 risk factor for VTE
 > - **unprovoked VTE** = VTE in an individual without risk factors for VTE
 
 ### main subtypes
-- [[deep venous thrombosis\|deep venous thrombosis]]
+- [[the collaterals/indications/deep venous thrombosis\|deep venous thrombosis]]
 - [[pulmonary embolism\|pulmonary embolism]]
 
 ### etiology
