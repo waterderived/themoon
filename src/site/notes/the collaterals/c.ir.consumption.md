@@ -11,9 +11,9 @@
 ---
 
 
-| title                                                                                                                                                                      | format | topics | source |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ------ |
-| [[the collaterals/media/p.backtable podcast - 0336 My Algorithm for Below The Knee CLI with Dr Peter Soukas\|My Algorithm for Below The Knee CLI with Dr Peter Soukas]] | 🎧     | \-     | \-     |
+| title                                                                                                                                                                      | format | topics                                                                                               | source |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------- | ------ |
+| [[the collaterals/media/p.backtable podcast - 0336 My Algorithm for Below The Knee CLI with Dr Peter Soukas\|My Algorithm for Below The Knee CLI with Dr Peter Soukas]] | 🎧     | [[critical limb ischemia\|CLI]], [[the collaterals/indications/peripheral arterial disease\|PAD]] | \-     |
 
 { .block-language-dataview}
 
