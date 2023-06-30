@@ -74,7 +74,7 @@
 ##### interventions
 - percutaneous cholecystostomy tube placement
 - [[percutaneous transhepatic biliary drainage\|percutaneous transhepatic biliary drainage]]
-- [[transvenous liver biopsy\|transvenous liver biopsy]]
+- [[the collaterals/procedures/transvenous liver biopsy\|transvenous liver biopsy]]
 - [[transjugular intrahepatic portosystemic shunt\|transjugular intrahepatic portosystemic shunt]] (tips)
 	- [[transjugular intrahepatic portosystemic shunt revision\|transjugular intrahepatic portosystemic shunt revision]]
 - [[balloon-occluded retrograde transvenous obliteration\|balloon-occluded retrograde transvenous obliteration]] (brto)
@@ -175,7 +175,9 @@
 - [[gonadal vein insufficiency\|gonadal vein insufficiency]]
 
 ##### interventions
-- [[uterine artery embolization\|uterine artery embolization]] (uae)
+- percutaneous kidney biopsy
+- transvenous kidney biopsy
+- percutaneous nephrostomy tube placement
 
 ### neuro
 ##### pathology
