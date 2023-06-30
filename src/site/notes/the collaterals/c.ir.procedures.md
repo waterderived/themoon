@@ -16,8 +16,8 @@
 
 
 ##### hemostasis & closure devices
-- compression device
-- vascular closure 
+- compression devices
+- [[the collaterals/procedures/vascular closure devices\|vascular closure devices]]
 
 ##### other
 - [[catheter reformation techniques\|catheter reformation techniques]]
