@@ -12,14 +12,17 @@
 
 ## general principles
 ### techniques
-##### safety
+##### safety & intraprocedural pain management
+- safety in interventional radiology
+- sedation, anesthesia, and analgesia
+- drug administration
+- contrast media reactions
+- 
+
+#### diagnostic imaging
 
 
-##### hemostasis & closure devices
-- compression devices
-- [[the collaterals/procedures/vascular closure devices\|vascular closure devices]]
-
-##### other
+#### other
 - [[catheter reformation techniques\|catheter reformation techniques]]
 
 
@@ -34,7 +37,9 @@
 	- picc placement
 	- nontunneled central line placement
 	- tunneled central line placement
-	- chest port placement
+	- subcutaneous port placement
+- [[the collaterals/procedures/vascular closure devices\|vascular closure devices]]
+- management of vascular complications
 - enteric tube placement
 - transcatheter fluid drainage
 
@@ -55,55 +60,12 @@
 - pulmonary pseudoaneurysm embolization
 - upper gi bleed embolization
 - lower gi bleed embolization
-- [[splenic artery embolization\|splenic artery embolization]]
-- renal artery embolization
+- [[splenic embolization\|splenic embolization]]
+- [[renal embolization\|renal embolization]]
 	- [[renal trauma management\|renal trauma management]]
 - pelvic bleed embolization
 - retroperitoneal bleed embolization
 - soft tissue hematoma embolization
-
-### hepatobiliary
-##### pathology
-- biliary disease
-- chronic liver disease and [[cirrhosis\|cirrhosis]]
-- [[portal hypertension\|portal hypertension]]
-- [[esophageal varices\|gastroesophageal varices]] & portosystemic shunts
-- [[ascites\|ascites]]
-- liver transplantation & complications
-
-##### interventions
-- percutaneous cholecystostomy tube placement
-- [[percutaneous transhepatic biliary drainage\|percutaneous transhepatic biliary drainage]]
-- [[the collaterals/procedures/transvenous liver biopsy\|transvenous liver biopsy]]
-- [[transjugular intrahepatic portosystemic shunt\|transjugular intrahepatic portosystemic shunt]] (tips)
-	- [[transjugular intrahepatic portosystemic shunt revision\|transjugular intrahepatic portosystemic shunt revision]]
-- [[balloon-occluded retrograde transvenous obliteration\|balloon-occluded retrograde transvenous obliteration]] (brto)
-	- [[balloon-occluded anterograde transvenous obliteration\|balloon-occluded anterograde transvenous obliteration]]
-
-
-### oncology
-##### pathology
-- [[hepatocellular carcinoma\|hepatocellular carcinoma]]
-- [[liver metastasis\|liver metastasis]]
-
-##### interventions
-###### by technique
-- [[transcatheter arterial embolization\|transcatheter arterial embolization]] (TAE)
-	- [[transarterial chemoembolization\|transarterial chemoembolization]] (TACE)
-	- [[the collaterals/procedures/transarterial radioembolization\|transarterial radioembolization]] (TARE)
-- ablation
-	- [[radiofrequency ablation\|radiofrequency ablation]] (rfa)
-	- [[microwave ablation\|microwave ablation]] (mwa)
-	- [[cryoablation\|cryoablation]]
-
-###### by organ
-- kidney
-	- renal tumor ablation
-- liver
-- lung
-	- [[lung tumor ablation\|lung tumor ablation]]
-- spleen
-
 
 ### arterial disease
 #### aorta
@@ -117,7 +79,7 @@
 
 #### thorax
 ##### pathology
-
+- pulmonary vascular malformation
 
 ##### interventions
 
@@ -126,6 +88,7 @@
 ##### pathology
 - [[renal artery stenosis\|renal artery stenosis]]
 - [[acute mesenteric ischemia\|acute mesenteric ischemia]] / [[chronic mesenteric ischemia\|chronic mesenteric ischemia]]
+- visceral aneurysm
 
 ##### interventions
 - [[uterine artery embolization\|uterine artery embolization]]
@@ -147,6 +110,7 @@
 - [[the collaterals/indications/venous thromboembolism\|venous thromboembolism]]
 	- [[the collaterals/indications/deep venous thrombosis\|deep venous thrombosis]]
 	- [[pulmonary embolism\|pulmonary embolism]]
+	- chronic deep venous obstructive disease
 - [[catheter-related thrombosis\|catheter-related thrombosis]]
 - [[paget-schroetter disease\|paget-schroetter disease]]
 - [[nutcracker syndrome\|nutcracker syndrome]]
@@ -157,14 +121,66 @@
 - [[catheter-directed thrombolysis\|catheter-directed thrombolysis]]
 - [[mechanical thrombectomy\|mechanical thrombectomy]]
 	- [[DVT thrombectomy\|DVT thrombectomy]]
+	- [[PE thrombectomy\|PE thrombectomy]]
 - [[ivc filter placement\|IVC filter placement]]
 - [[venous stenting\|venous stenting]]
 
 ### dialysis
-- fistulogram
+- dialysis fistulae
+- dialysis grafts
+- dialysis catheter management
 
 ### lymphatic
 - [[spaces/med library/thoracic duct embolization\|thoracic duct embolization]]
+
+
+### hepatobiliary
+##### pathology
+- biliary disease
+- chronic liver disease and [[cirrhosis\|cirrhosis]]
+- [[portal hypertension\|portal hypertension]]
+- [[esophageal varices\|gastroesophageal varices]] & portosystemic shunts
+- [[ascites\|ascites]]
+- liver transplantation & complications
+
+##### interventions
+- percutaneous cholecystostomy tube placement
+- [[percutaneous transhepatic biliary drainage\|percutaneous transhepatic biliary drainage]]
+- [[the collaterals/procedures/transvenous liver biopsy\|transvenous liver biopsy]]
+- [[the collaterals/procedures/transjugular intrahepatic portosystemic shunt\|transjugular intrahepatic portosystemic shunt]] (tips)
+	- [[transjugular intrahepatic portosystemic shunt revision\|transjugular intrahepatic portosystemic shunt revision]]
+- retrograde transvenous obliteration of varices
+	- [[balloon-occluded retrograde transvenous obliteration\|balloon-occluded retrograde transvenous obliteration]] (brto)
+	- [[balloon-occluded anterograde transvenous obliteration\|balloon-occluded anterograde transvenous obliteration]] (bato)
+- preoperative hepatic augmentation
+
+### oncology
+##### pathology
+- [[hepatocellular carcinoma\|hepatocellular carcinoma]]
+- [[liver metastasis\|liver metastasis]]
+
+##### interventions
+###### by technique
+- [[transcatheter arterial embolization\|transcatheter arterial embolization]] (TAE)
+	- [[transarterial chemoembolization\|transarterial chemoembolization]] (TACE)
+	- [[the collaterals/procedures/transarterial radioembolization\|transarterial radioembolization]] (TARE)
+- ablation
+	- [[radiofrequency ablation\|radiofrequency ablation]] (rfa)
+	- [[microwave ablation\|microwave ablation]] (mwa)
+	- [[cryoablation\|cryoablation]]
+
+###### by organ
+- kidney
+	- renal tumor ablation
+- liver
+	- hepatic tumor ablation
+- lung
+	- [[lung tumor ablation\|lung tumor ablation]]
+- spleen
+- msk
+	- musculoskeletal biopsy, aspiration, and injection
+	- musculoskeletal ablation
+
 
 ### genitourinary
 ##### pathology
@@ -195,8 +211,7 @@
 - vertebral body compression fracture
 
 ##### interventions
-- vertebroplasty
-- kyphoplasty
+- [[vertebroplasty\|vertebroplasty]], [[kyphoplasty\|kyphoplasty]]
 - block/neurolysis
 	- [[celiac plexus neurolysis\|celiac plexus neurolysis]] / [[celiac plexus block\|celiac plexus block]]
 
