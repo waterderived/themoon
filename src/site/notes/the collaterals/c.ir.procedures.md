@@ -3,6 +3,10 @@
 ---
 
 
+[[the collaterals\|← home]]
+
+<br>
+
 # interventional radiology
 ---
 
@@ -188,6 +192,8 @@
 - vertebral body compression fracture
 
 ##### interventions
+- vertebroplasty
+- kyphoplasty
 - block/neurolysis
 	- [[celiac plexus neurolysis\|celiac plexus neurolysis]] / [[celiac plexus block\|celiac plexus block]]
 - 
