@@ -174,7 +174,9 @@ breaks down LE PAD into 3 subsets (**aortoiliac, femoral-popliteal, tibioperonea
 
 ##### resting ABI
 - indications
-	- 
+	- first-line diagnostic test for nonacute PAD (i.e. intermitted claudication, rest pain, CLI)
+	- screening for PAD in asymptomatic individuals with risk factors for PAD or known atherosclerosis
+		- low ABI my be associated with increased mortality even in asymptomatic individuals
 - techniques
 	- ask the patient to rest in the supine position for ~ 10 minutes
 	- place the blood pressure cuffs on the ankles and the arms
