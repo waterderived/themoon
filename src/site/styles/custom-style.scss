@@ -76,7 +76,7 @@ body {
 	font-family: var(--font-editor-theme);
 	font-size: 10px;
 	letter-spacing: 0.75px;
-  padding-top: 2px;
+  	padding-top: 2px;
 }
 
 .markdown-source-view.mod-cm6 .callout {
@@ -248,10 +248,6 @@ div.callout[data-callout=note] {
 	--callout-color: 145, 125, 105;
 }
 
-div.callout[data-callout=note] .callout-title {
-	background: rgb(var(--callout-color), 0.03);
-}
-
 div.callout[data-callout=abstract] {
 	--callout-icon: loader;
 	--callout-color: 67, 106, 160;
@@ -269,10 +265,6 @@ div.callout[data-callout=summary] .callout-title {
 div.callout[data-callout=tldr] {
 	--callout-icon: clock-4;
 	--callout-color: 228, 171, 157;
-}
-
-div.callout[data-callout=tldr] .callout-title {
-	text-transform: uppercase;
 }
 
 div.callout[data-callout=info] {
