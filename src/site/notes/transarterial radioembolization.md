@@ -243,9 +243,10 @@ $$ A(GBq) = BSA(m^2) - 0.2 + (\% tumor involvement / 100) $$
 - treatment in patients with PVT safe, with median survival 8-14mo
 	- outcomes optimized when tumor radiation does exceeds 205Gy
 
-![Pasted image 20230629214238.png|400](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629214238.png)
+![Pasted image 20230629214238.png|500](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629214238.png)
 
-![[Pasted image 20230424182312.png\|Pasted image 20230424182312.png]]
+
+![Pasted image 20230629214806.png|500](/img/user/Pasted%20image%2020230629214806.png)
 
 #### metastatic colorectal disease to the liver
 - median survival in **salvage** setting (after failing minimum second line systemic therapies) ~10.5mo
