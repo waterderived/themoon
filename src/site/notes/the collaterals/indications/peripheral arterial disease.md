@@ -308,7 +308,7 @@ The primary goal of revascularization is to improve blood flow in at least one a
 - [[percutaneous transluminal angioplasty\|percutaneous transluminal angioplasty]] 
 	- +/- combination with stent placement and/or atherectomy
 - indications: considered with
-	- **short segment disease**: stenosis < 10 cm or occlusion < 5 cm
+	- **short segment disease**: stenosis < 10 cm or occlusion < 5 cm (**TASC II or III**)
 	- aortoiliac disease
 	- high-risk patients (predicted periprocedural mortality risk ≥ 5% and 2-year survival ≤ 50%)
 		- several comorbidities (e.g. coronary artery disease, congestive heart failure, severe pulmonary disease, chronic kidney disease)
