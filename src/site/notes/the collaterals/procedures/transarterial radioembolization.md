@@ -3,7 +3,11 @@
 ---
 
 
-# transarterial radioembolization (tare)
+[[the collaterals/c.ir.procedures\|← indications and procedures]]
+
+<br>
+
+# transarterial radioembolization (TARE)
 ---
 
 > [!info] definition
