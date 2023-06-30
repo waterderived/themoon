@@ -101,18 +101,6 @@ body {
 	box-shadow: none !important;
 }
 
-.callout-title {
-	padding: 8px 1em;
-	border-top-right-radius: 8px;
-	border-top-left-radius: 8px;
-}
-
-.callout.is-collapsed .callout-title {
-	border-bottom-left-radius: 8px;
-	border-bottom-right-radius: 8px;
-	border-bottom-width: 1px;
-}
-
 .callout-content {
 	padding: 0px 1.5em;
 	padding-top: 0em;
