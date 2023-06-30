@@ -11,10 +11,15 @@
 
 
 ### indications
-
+- diffuse liver disease in patients with contraindication to percutaneous biopsy
+	- e.g. coagulation disorder, ascites, peliosis hepatis, morbid obesity
+- hemodynamic assessment
 
 ### contraindications
-
+#### relative
+- lack of suitable access (e.g. SVC obstruction)
+- diagnosis of focal lesions
+- uncorrectable coagulation parameters
 
 ### preprocedure preparation
 
