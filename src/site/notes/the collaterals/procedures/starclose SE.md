@@ -4,9 +4,13 @@
 
 
 # StarClose SE
----
 
 *Abbott Vascular, Abbott Park, IL*
+
+---
+
+> [!info] definition
+> a [[the collaterals/procedures/vascular closure devices\|vascular closure device]]
 
 ### mechanism
 a nitinol clip is deployed around the arteriotomy, cinching it closed
