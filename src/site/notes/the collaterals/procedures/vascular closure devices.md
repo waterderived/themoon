@@ -11,7 +11,7 @@
 ---
 
 > [!info] definition
-> devices designed to help achieve hemostases for larger arteriotomies
+> devices designed to help achieve hemostasis for larger arteriotomies
 
 
 
