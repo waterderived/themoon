@@ -1,4 +1,15 @@
 body {
+	--font-ui-smaller: 10px;
+	--font-adaptive-normal: var(--font-text-size, var(--editor-font-size));
+	--font-adaptive-small: var(--font-ui-medium);
+	--font-adaptive-smaller: var(--font-ui-small);
+	--font-adaptive-smallest: var(--font-ui-smaller);
+	--line-width-adaptive: var(--line-width);
+	--line-width-wide: calc(var(--line-width) + 12.5%);
+	--font-code: calc(var(--font-adaptive-normal) * 0.9);
+	--table-text-size: calc(var(--font-adaptive-normal) * 0.875)
+}
+body {
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
