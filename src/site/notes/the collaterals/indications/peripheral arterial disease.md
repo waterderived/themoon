@@ -277,7 +277,7 @@ Dashed outline: superior mesenteric artery; green overlay: occluded aorta
 - arterial embolism
 - [[popliteal entrapment syndrome\|popliteal entrapment syndrome]]
 - [[cystic adventitial disease\|cystic adventitial disease]]
-- [[deep venous thrombosis\|deep vein thrombosis]]
+- [[the collaterals/indications/deep venous thrombosis\|deep vein thrombosis]]
 - [[spinal stenosis\|spinal stenosis]]
 - [[diabetic neuropathy\|diabetic neuropathy]]
 - [[chronic exertional compartment syndrome\|chronic exertional compartment syndrome]]
