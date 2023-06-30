@@ -126,12 +126,11 @@ Rutherford classification classifies PAD into acute and chronic limb ischemia �
 classifies patients according to lesion location and burden
 breaks down LE PAD into 3 subsets (**aortoiliac, femoral-popliteal, tibioperoneal**) and 4 severities (A-D)
 
-![[Pasted image 20230624175802.png\|Pasted image 20230624175802.png]]
+![Pasted image 20230629230209.png](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629230209.png)
 
+![Pasted image 20230629230221.png](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629230221.png)
 
-![[Pasted image 20230611214008.png\|Pasted image 20230611214008.png]]
-
-![[Pasted image 20230611214021.png\|Pasted image 20230611214021.png]]
+![Pasted image 20230629230235.png|400](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629230235.png)
 
 #### fontaine classification
 - stages
@@ -142,7 +141,7 @@ breaks down LE PAD into 3 subsets (**aortoiliac, femoral-popliteal, tibioperonea
 	- stage III: pain at rest (mostly in feet)
 	- stage IV: necrosis and/or gangrene
 
-![[Pasted image 20230611150955.png\|Pasted image 20230611150955.png]]
+![Pasted image 20230629230314.png|500](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629230314.png)
 
 #### svs wound, ischemia, foot infection (wifi) classification
 - purpose
@@ -155,13 +154,27 @@ breaks down LE PAD into 3 subsets (**aortoiliac, femoral-popliteal, tibioperonea
 
 ### evaluation
 #### approach
-
+- **acutely cold, painful limb** → suspect ALI, consult vascular surgery for urgent revascularization
+- **claudication, rest pain, CLI** →
+	- perform a comprehensive history and physical examination
+		- palpation of pulses in all lower extremities
+		- measure bp in both arms
+		- inspect lower extremities for wounds and dystrophic changes
+		- assess for pedal neuropathy
+		- measure capillary refill time
+		- look for pallor of the foot with elevation, rubor with dependency
+	- measure ABI
+	- order additional tests as needed (e.g. for inconclusive ABI results, for tissue loss suggestive of CLI)
+- **PAD confirmed** (based on clinical features, ABI) →
+	- obtain imaging if revasculrization is planned or if diagnosis remains uncertain
+	- consider screening for abdominal aortic aneurysm
 
 #### ankle brachial index (ABI)
 **[[ankle brachial index\|ABI]]** = the ratio of systolic ankle blood pressure to systolic brachial blod pressure
 
 ##### resting ABI
 - indications
+	- 
 - techniques
 	- ask the patient to rest in the supine position for ~ 10 minutes
 	- place the blood pressure cuffs on the ankles and the arms
@@ -179,7 +192,8 @@ breaks down LE PAD into 3 subsets (**aortoiliac, femoral-popliteal, tibioperonea
 	- calculare the ABI for each leg
 		- divide the highest ankle pressure by the highest brachial pressure
 
-![[Pasted image 20230624160653.png\|Pasted image 20230624160653.png]]
+![Pasted image 20230629230353.png](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629230353.png)
+
 
 ###### interpretation of resting ABI
 - **> 1.4**: **medial calcific sclerosis** with noncompressible wall (often in elderly patients and patients with diabetes or CKD) — nondiagnostic for PAD
