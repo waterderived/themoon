@@ -19,4 +19,473 @@ body {
     .markdown-source-view.mod-cm6 .cm-content > * {
         margin: auto auto !important;
     }
+
+    
+
+/* Callouts */
+
+body {
+	--callout-radius: var(--radius-s);
+	--callout-border-opacity: 30%;
+	--callout-border-width: 0px;
+	--callout-padding: 0 var(--size-4-3) var(--size-4-3) var(--size-4-6);
+	--callout-radius: var(--radius-s);
+	--callout-title-padding: 0;
+	--callout-title-background: transparent;
+	--callout-title-size: inherit;
+	--callout-content-padding: 0;
+}
+
+.is-live-preview.is-readable-line-width>.cm-callout .callout {
+	max-width: var(--max-width);
+	margin: 0 auto;
+}
+
+
+/* ---- jisoo's callouts ----- */
+
+/* Sizing Fixes */
+.markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-callout {
+	padding: 0;
+}
+
+.markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-callout+.HyperMD-quote,
+.markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-callout+.HyperMD-quote+.HyperMD-quote,
+.markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-callout+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote,
+.markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-callout+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote,
+.markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-callout+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote,
+.markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-callout+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote,
+.markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-callout+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote,
+.markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-callout+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote,
+.markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-callout+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote,
+.markdown-source-view.mod-cm6 .HyperMD-quote.HyperMD-callout+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote+.HyperMD-quote {
+	padding: 0;
+}
+
+/* space for shadow */
+.markdown-source-view.mod-cm6 .cm-embed-block.cm-callout {
+	padding-bottom: 0px;
+}
+
+.callout {
+	border-radius: 8px;
+	transition: 70ms cubic-bezier(0.45, 0.05, 0.55, 0.95);
+}
+
+.markdown-source-view .callout {
+	font-family: var(--font-editor-theme);
+	font-size: 10px;
+	letter-spacing: 0.75px;
+  padding-top: 2px;
+}
+
+.markdown-source-view.mod-cm6 .callout {
+	border-width: 0;
+	margin: 0 0;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	box-shadow: none !important;
+}
+
+.markdown-preview-view .callout {
+	font-family: var(--font-text-theme);
+	font-size: 10px;
+	letter-spacing: 0.75px;
+	padding-bottom: 12px;
+	padding-top: 12px;
+	padding-right: 12px;
+	padding-left: 12px;
+	margin-bottom: 0px;
+	box-shadow: none !important;
+}
+
+.callout-title {
+	padding: 8px 1em;
+	border-top-right-radius: 8px;
+	border-top-left-radius: 8px;
+}
+
+.callout.is-collapsed .callout-title {
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-bottom-width: 1px;
+}
+
+.callout-content {
+	padding: 0px 1.5em;
+	padding-top: 0em;
+	padding-bottom: 0.1em;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+}
+
+.markdown-preview-view .callout-content {
+	padding-top: 0.1em;
+	padding-bottom: 2em;
+  padding-left: 20px;
+}
+
+.markdown-preview-view .callout-content ul {
+	padding-top: 0.1em;
+}
+
+.markdown-preview-view .callout-content p {
+	padding-bottom: 0.6em;
+}
+
+.callout-icon svg,
+.callout-fold svg {
+	height: var(--font-text-size);
+	width: var(--font-text-size);
+}
+
+.callout-icon,
+.callout-fold {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-right: 4px;
+}
+
+
+/* General Styling */
+.callout {
+	border: 0px solid rgba(var(--callout-color), 0.2);
+	overflow: hidden;
+}
+
+.theme-light .callout {
+	background-color: rgba(var(--bg1), 0.3);
+}
+
+.theme-dark .callout {
+	background-color: rgba(var(--bg1), 0.3);
+}
+
+.theme-light .callout-title {
+	background: rgba(var(--callout-color), 0.25);
+	border-top: 1px solid rgba(var(--callout-color), 0.2);
+	border-left: 1px solid rgba(var(--callout-color), 0.2);
+	border-right: 1px solid rgba(var(--callout-color), 0.2);
+}
+
+.theme-dark .callout-title {
+	background: rgba(var(--callout-color), 0.2);
+	border-top: 1px solid rgba(var(--callout-color), 0.2);
+	border-left: 1px solid rgba(var(--callout-color), 0.2);
+	border-right: 1px solid rgba(var(--callout-color), 0.2);
+}
+
+.theme-light .callout-title .callout-icon {
+	filter: brightness(0.75);
+}
+
+.theme-dark .callout-title .callout-icon {
+	filter: brightness(1);
+}
+
+.theme-light .callout.is-collapsed .callout-title {
+	box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.05) inset;
+}
+
+.theme-dark .callout.is-collapsed .callout-title {
+	box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.175) inset;
+}
+
+.callout-fold {
+	color: rgba(var(--callout-color), 1);
+}
+
+.theme-light .callout-fold {
+	filter: brightness(0.75);
+}
+
+.theme-dark .callout-fold {
+	filter: brightness(1);
+}
+
+.theme-light .callout-content {
+	background: var(--color-light);
+	border-left: 1px solid rgba(var(--callout-color), 0.2);
+	border-right: 1px solid rgba(var(--callout-color), 0.2);
+	border-bottom: 1px solid rgba(var(--callout-color), 0.2);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.01), 0 4px 8px rgba(0, 0, 0, 0.01),
+		0 4px 8px rgba(0, 0, 0, 0.02), 0 2.3px 17.9px rgba(0, 0, 0, 0.03),
+		0 12px 33.4px rgba(0, 0, 0, 0.03); 
+	/* box-shadow: 0px -2px 0px 0px rgba(0, 0, 0, 0.05) inset; */
+}
+
+.theme-dark .callout-content {
+	background: var(--color-dark);
+	border-left: 1px solid rgba(var(--callout-color), 0.2);
+	border-right: 1px solid rgba(var(--callout-color), 0.2);
+	border-bottom: 1px solid rgba(var(--callout-color), 0.2);
+	/* box-shadow: 0px -2px 0px 0px rgba(0, 0, 0, 0.175) inset; */
+}
+
+/* Callout Colors */
+.theme-light,
+.theme-dark {
+	--callout-color-note: 200, 175, 155;
+	--callout-color-abstract: 34, 152, 225;
+	--callout-color-summary: 255, 221, 88;
+	--callout-color-tldr: 240, 180, 225;
+	--callout-color-info: 134, 153, 149;
+	--callout-color-todo: 0, 171, 197;
+	--callout-color-tip: 70, 206, 185;
+	--callout-color-hint: 70, 206, 185;
+	--callout-color-important: 244, 87, 93;
+	--callout-color-celebrate: 100, 175, 255;
+	--callout-color-celebrate-bg: linear-gradient(45deg, #ef92af70, #7bd7e970, #81e1a570, #ffda2b70);
+	--callout-color-success: 100, 175, 255;
+	--callout-color-success-bg: linear-gradient(45deg, #ef92af70, #7bd7e970, #81e1a570, #ffda2b70);
+	--callout-color-check: 0, 200, 83;
+	--callout-color-done: 0, 200, 83;
+	--callout-color-question: 130, 190, 235;
+	--callout-color-help: 150, 95, 255;
+	--callout-color-faq: 130, 190, 235;
+	--callout-color-warning: 255, 161, 32;
+	--callout-color-caution: 255, 161, 32;
+	--callout-color-attention: 255, 161, 32;
+	--callout-color-failure: 226, 72, 86;
+	--callout-color-missing: 226, 72, 86;
+	--callout-color-danger: 226, 72, 86;
+	--callout-color-error: 226, 72, 86;
+	--callout-color-bug: 206, 91, 124;
+	--callout-color-example: 173, 102, 234;
+	--callout-color-quote: 158, 158, 158;
+	--callout-color-cite: 158, 158, 158;
+	/* Primary Custom Callouts */
+	--callout-color-pro: 147, 241, 62;
+	--callout-color-con: 255, 75, 75;
+	--callout-color-idea: 247, 141, 25;
+	--callout-color-morning: 149, 197, 194;
+	--callout-color-trivia: 70, 206, 185;
+}
+
+/* Callout Type Styling */
+div.callout {
+	--callout-color: 200, 175, 155;
+}
+
+div.callout[data-callout=note] {
+	--callout-color: 145, 125, 105;
+}
+
+div.callout[data-callout=note] .callout-title {
+	background: rgb(var(--callout-color), 0.03);
+}
+
+div.callout[data-callout=abstract] {
+	--callout-icon: loader;
+	--callout-color: 67, 106, 160;
+}
+
+div.callout[data-callout=summary] {
+	--callout-icon: align-justify;
+	--callout-color: 255, 221, 88;
+}
+
+div.callout[data-callout=summary] .callout-title {
+	color: #e7b434;
+}
+
+div.callout[data-callout=tldr] {
+	--callout-icon: clock-4;
+	--callout-color: 228, 171, 157;
+}
+
+div.callout[data-callout=tldr] .callout-title {
+	text-transform: uppercase;
+}
+
+div.callout[data-callout=info] {
+	--callout-color: 134, 153, 149;
+}
+
+div.callout[data-callout=todo] {
+	--callout-icon: check-square;
+	--callout-color: 97, 160, 176;
+}
+
+div.callout[data-callout=tip] {
+	--callout-icon: clover;
+	--callout-color: 136, 152, 146;
+}
+
+div.callout[data-callout=hint] {
+	--callout-icon: search;
+	--callout-color: 100, 174, 162;
+}
+
+div.callout[data-callout=important] {
+	--callout-icon: asterisk;
+	--callout-color: 189, 91, 80;
+}
+
+div.callout[data-callout=check] {
+	--callout-icon: check;
+	--callout-color: 159, 183, 135;
+}
+
+div.callout[data-callout=done] {
+	--callout-icon: check;
+	--callout-color: 124, 138, 99;
+}
+
+div.callout[data-callout=question] {
+	--callout-color: 134, 153, 149;
+}
+
+div.callout[data-callout=help] {
+	--callout-color: 134, 104, 172;
+}
+
+div.callout[data-callout=faq] {
+	--callout-color: 130, 190, 235;
+}
+
+div.callout[data-callout=warning] {
+	--callout-color: 222, 98, 84;
+}
+
+div.callout[data-callout=caution] {
+	--callout-color: 219, 173, 21;
+}
+
+div.callout[data-callout=attention] {
+	--callout-color: 119, 135, 186;
+}
+
+div.callout[data-callout=fail],
+div.callout[data-callout=failure] {
+	--callout-color: 222, 98, 84;
+}
+
+div.callout[data-callout=missing] {
+	--callout-color: 222, 98, 84;
+}
+
+div.callout[data-callout=danger] {
+	--callout-color: 238, 102, 12;
+}
+
+div.callout[data-callout=error] {
+	--callout-icon: alert-circle;
+	--callout-color: 222, 98, 84;
+}
+
+div.callout[data-callout=bug] {
+	--callout-color: 162, 41, 93;
+}
+
+div.callout[data-callout=example] {
+	--callout-color: 134, 104, 172;
+}
+
+div.callout[data-callout=quote] {
+	--callout-color: 158, 158, 158;
+}
+
+div.callout[data-callout=cite] {
+	--callout-color: 158, 158, 158;
+}
+
+div.callout[data-callout=pro] {
+	--callout-icon: thumbs-up;
+	--callout-color: 118, 192, 121;
+}
+
+div.callout[data-callout=con] {
+	--callout-icon: thumbs-down;
+	--callout-color: 255, 75, 75;
+}
+
+div.callout[data-callout=idea] {
+	--callout-icon: lightbulb;
+	--callout-color: 128, 165, 189;
+}
+
+div.callout[data-callout=trivia] {
+	--callout-icon: lightbulb;
+	--callout-color: 158, 158, 158;
+}
+
+div.callout[data-callout=morning] {
+	--callout-icon: coffee;
+	--callout-color: 149, 197, 194;
+}
+
+.callout[data-callout="references"] {
+	--callout-icon: link;
+	--callout-color: 140, 140, 140;
+}
+
+.callout[data-callout="references"] .callout-content {
+	text-indent: -50px;
+	padding-left: 65px;
+	padding-right: 15px;
+}
+
+.callout[data-callout*=celebrate],
+.callout[data-callout*=success] {
+	--callout-icon: flag;
+	--callout-color: 100, 175, 255;
+}
+
+.callout[data-callout*=celebrate] .callout-title,
+.callout[data-callout*=success] .callout-title {
+	background: linear-gradient(45deg, #ef92af70, #7bd7e970, #81e1a570, #ffda2b70);
+	background-size: 800% 800%;
+	-webkit-animation: animateCelebrate 15s ease infinite;
+	color: #1e2021;
+}
+
+.callout[data-callout*=celebrate] .callout-icon,
+.callout[data-callout*=success] .callout-icon {
+	transform: rotate(-20deg);
+}
+
+div.callout[data-callout*=celebrate] .callout-icon,
+div.callout[data-callout*=celebrate] .callout-fold,
+div.callout[data-callout*=success] .callout-icon,
+div.callout[data-callout*=success] .callout-fold {
+	color: var(--md-color-text);
+}
+
+.callout[data-callout*=fire] {
+	--callout-icon: fire;
+	--callout-color: 100, 175, 255;
+}
+
+.callout[data-callout*=fire] .callout-title {
+	background: linear-gradient(45deg, #df4f3285, #ec995e70, #eca42070, #e9d16570);
+	background-size: 800% 800%;
+	-webkit-animation: animateCelebrate 15s ease infinite;
+	color: #1e2021;
+}
+
+div.callout[data-callout*=fire] .callout-icon,
+div.callout[data-callout*=fire] .callout-fold {
+	color: var(--md-color-text);
+}
+
+/* animation for celebrate callout */
+@-webkit-keyframes animateCelebrate {
+	0% {
+		background-position: 0% 47%;
+	}
+
+	50% {
+		background-position: 100% 54%;
+	}
+
+	100% {
+		background-position: 0% 47%;
+	}
+}
+
+/* end of all the callout code */
 }
