@@ -145,7 +145,7 @@
 ### venous disease
 ##### pathology
 - [[the collaterals/indications/venous thromboembolism\|venous thromboembolism]]
-	- [[deep venous thrombosis\|deep venous thrombosis]]
+	- [[the collaterals/indications/deep venous thrombosis\|deep venous thrombosis]]
 	- [[pulmonary embolism\|pulmonary embolism]]
 - [[catheter-related thrombosis\|catheter-related thrombosis]]
 - [[paget-schroetter disease\|paget-schroetter disease]]
@@ -156,7 +156,8 @@
 ##### interventions
 - [[catheter-directed thrombolysis\|catheter-directed thrombolysis]]
 - [[mechanical thrombectomy\|mechanical thrombectomy]]
-- [[ivc filter placement\|ivc filter placement]]
+	- [[DVT thrombectomy\|DVT thrombectomy]]
+- [[ivc filter placement\|IVC filter placement]]
 - [[venous stenting\|venous stenting]]
 
 ### dialysis
