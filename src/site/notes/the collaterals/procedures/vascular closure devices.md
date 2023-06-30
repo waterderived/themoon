@@ -6,6 +6,7 @@
 [[the collaterals/c.ir.procedures\|← indications & procedures]]
 
 <br>
+
 # vascular closure devices (VCD)
 ---
 
