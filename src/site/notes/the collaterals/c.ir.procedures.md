@@ -3,10 +3,6 @@
 ---
 
 
-[[the collaterals\|← home]]
-
-<br>
-
 # interventional radiology
 ---
 
