@@ -133,7 +133,7 @@
 
 #### lower extremity & infrainguinal
 ##### pathology
-- [[peripheral arterial disease\|peripheral arterial disease]] / [[critical limb ischemia\|critical limb ischemia]] 
+- [[the collaterals/indications/peripheral arterial disease\|peripheral arterial disease]] / [[critical limb ischemia\|critical limb ischemia]] 
 - [[acute limb ischemia\|acute limb ischemia]]
 
 ##### interventions
