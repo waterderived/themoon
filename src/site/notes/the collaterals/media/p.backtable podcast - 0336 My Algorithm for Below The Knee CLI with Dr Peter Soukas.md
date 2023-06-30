@@ -19,7 +19,7 @@
 ---
 
 > [!note]- info
-> nodes:: [[critical limb ischemia\|CLI]], [[the collaterals/indications/peripheral arterial disease\|PAD]]
+> topics:: [[critical limb ischemia\|CLI]], [[the collaterals/indications/peripheral arterial disease\|PAD]]
 > source:: 
 
 
