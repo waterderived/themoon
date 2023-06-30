@@ -164,20 +164,6 @@ body {
 	background-color: rgba(var(--bg1), 0.3);
 }
 
-.theme-light .callout-title {
-	background: rgba(var(--callout-color), 0.25);
-	border-top: 1px solid rgba(var(--callout-color), 0.2);
-	border-left: 1px solid rgba(var(--callout-color), 0.2);
-	border-right: 1px solid rgba(var(--callout-color), 0.2);
-}
-
-.theme-dark .callout-title {
-	background: rgba(var(--callout-color), 0.2);
-	border-top: 1px solid rgba(var(--callout-color), 0.2);
-	border-left: 1px solid rgba(var(--callout-color), 0.2);
-	border-right: 1px solid rgba(var(--callout-color), 0.2);
-}
-
 .theme-light .callout-title .callout-icon {
 	filter: brightness(0.75);
 }
@@ -550,7 +536,7 @@ body {
 }
 
 .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote {
-  font-style: var(--blockquote-style);
+  font-style: var(--blockquote-font-style);
   border: 0 solid var(--blockquote-border-color);
   border-left-width: var(--blockquote-border-thickness);
   background-color: var(--blockquote-background-color);
