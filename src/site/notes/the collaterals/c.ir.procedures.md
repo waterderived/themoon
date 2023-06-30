@@ -144,7 +144,7 @@
 
 ### venous disease
 ##### pathology
-- [[venous thromboembolism\|venous thromboembolism]]
+- [[the collaterals/indications/venous thromboembolism\|venous thromboembolism]]
 	- [[deep venous thrombosis\|deep venous thrombosis]]
 	- [[pulmonary embolism\|pulmonary embolism]]
 - [[catheter-related thrombosis\|catheter-related thrombosis]]
