@@ -67,8 +67,41 @@ any factor that causes [[hypercoagulability\|hypercoagulability]], endothelial d
 - **general symptoms**: fever
 - possibly **signs of pulmonary embolism**: dyspnea, chest pain, dizziness, weakness
 
-### evaluation
+#### pretest probability of DVT
 
+**Wells criteria** (Wells score for DVT) is used to calculate pretest probability of DVT of the lower extremities
+
+> [!example] modified Wells criteria for DVT
+> - history of active cancer → +1
+> - previous documented DVT → +1
+> - paralysis, paresis, or recent immobilization of lower extremity (e.g. cast) → +1
+> - recently bedridden for ≥ 3 days OR underwent major surgery within the past 12 weeks under general/local anesthesia → +1
+> - tenderness localized along the deep vein system → +1
+> - swelling of the entire leg → +1
+> - calf swelling ≥3cm compared to the contralateral leg → +1
+> - pitting edema confined to symptomatic leg → +1
+> - distended collateral superficial veins (nonvaricose) → +1
+> - alternative diagnosis as likely as or more likely than DVT → -2
+> 
+> **interpretation**: 0: low; 1-2: intermediate; ≥3: high
+
+### evaluation
+#### diagnostic approach to suspected lower extremity DVT
+
+
+#### initial evaluation
+Based on patient pretest probability, initial test may be either **D-dimer** or **compression ultrasound**
+
+##### D-dimer
+
+
+#####  lower extremity venous ultrasound
+- indications
+- procedures
+- ultrasound findings supportive of DVT
+- accuracy
+
+#### additional evaluation
 
 
 ### management
