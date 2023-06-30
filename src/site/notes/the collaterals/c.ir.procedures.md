@@ -199,7 +199,6 @@
 - kyphoplasty
 - block/neurolysis
 	- [[celiac plexus neurolysis\|celiac plexus neurolysis]] / [[celiac plexus block\|celiac plexus block]]
-- 
 
 ### pediatric
 ##### pathology
