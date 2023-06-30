@@ -21,19 +21,20 @@
 > 	- potential contralateral lobe hypertrophy
 
 ### clinical indications
-> [!aside|right] 
+
+> [!aside] 
 > indicators of adequate hepatic reserve
 > - total bilirubin ≤ 2 mg/dL
 > - albumin > 3 g/cL
 > - normal INR
 
-> [!aside|right] ecog
-> ![[Pasted image 20230130003157.png\|350]]
 
 determining eligibility requires assessment of disease burden, biochemical parameters of liver function, and performance status
 - liver-only or liver-dominant primary or metastatic disease with a tumor burden involving **< 50%** of the liver
 - indicators of adequate hepatic reserve
 - minimal cancer-related symptoms, with ECOG **0-2**
+
+![Pasted image 20230629215432.png|400](/img/user/Pasted%20image%2020230629215432.png)
 
 #### glass microspheres
 TheraSphere was approved by US FDA in 1999 under a humanitarian device exemption, defined as safe and probably beneficial for 
