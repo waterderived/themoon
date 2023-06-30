@@ -120,7 +120,7 @@ Rutherford classification classifies PAD into acute and chronic limb ischemia â€
 	- **category 6**: major tissue loss â€” extending above transmetatarsal level, functional foot no longer salvageable
 		- same as category 5
 
-![[Pasted image 20230624213827.png\|Pasted image 20230624213827.png]]
+![Pasted image 20230629230143.png|450](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629230143.png)
 
 #### tasc (trans-atlantic inter-society consensus) II classification
 classifies patients according to lesion location and burden
@@ -157,8 +157,8 @@ breaks down LE PAD into 3 subsets (**aortoiliac, femoral-popliteal, tibioperonea
 #### approach
 
 
-#### [[ankle brachial index\|ankle brachial index]] (ABI)
-**ABI** = the ratio of systolic ankle blood pressure to systolic brachial blod pressure
+#### ankle brachial index (ABI)
+**[[ankle brachial index\|ABI]]** = the ratio of systolic ankle blood pressure to systolic brachial blod pressure
 
 ##### resting ABI
 - indications
@@ -329,22 +329,6 @@ The primary goal of revascularization is to improve blood flow in at least one a
 
 ### prevention
 see prevention of [[atherosclerotic cardiovascular disease\|atherosclerotic cardiovascular disease]]
-
-### literature
-| author | year | tl;dr |
-| ------ | ---- | ----- |
-
-{ .block-language-dataview}
-
-
-### questions
-| id | presentation | hx | data | question | iconReview |
-| -- | ------------ | -- | ---- | -------- | ---------- |
-
-{ .block-language-dataview}
-
-### recall
-
 
 
 
