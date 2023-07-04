@@ -60,10 +60,10 @@ goal: to achieve **temporizing/palliative** control
 
 
 ### complications
-- intercostal artery embolization (--> chest pain) or esophageal artery embolization (--> dysphagia)
+- intercostal artery embolization (→ chest pain) or esophageal artery embolization (→ dysphagia)
 	- usually self-limited, managed conservatively with analgesics
-- **==spinal artery embolization==** --> transverse myelitis (most feared complication)
-	- reported incidence ranges from 1.4-6.5%, but this data includes some of the early bae experience in which coaxial microcatheter systems were not routinely used for super-selective embolization -- now felt to be lower
+- **==spinal artery embolization==** --> **[[transverse myelitis\|transverse myelitis]]** (most feared complication)
+	- reported incidence ranges from 1.4-6.5%, but this data includes some of the early BAE experience in which coaxial microcatheter systems were not routinely used for super-selective embolization -- now felt to be lower
 
 
 ### misc
