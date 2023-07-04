@@ -35,6 +35,13 @@ font-size: 11px;
         margin: auto auto !important;
     }
 
+h6 {
+	font-family: var(--font-header-theme);
+	margin-block-start: 0.5em;
+	margin-block-end: -0.35em;
+	padding: 20px 0px 0px 0px !important;
+	letter-spacing: 0.03em;
+}
     
 
 /* Callouts */
