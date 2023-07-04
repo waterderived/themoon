@@ -34,8 +34,8 @@ approved for arterial access site closure and hemostasis after **retrograde comm
 
 | device                                                       | manufacturer    | type                  | mechanism | sheath size | notes                                                                                                     |
 | ------------------------------------------------------------ | --------------- | --------------------- | --------- | ----------- | --------------------------------------------------------------------------------------------------------- |
-| [[the collaterals/procedures/starclose SE\|StarClose SE]] | Abbott Vascular | active approximator   | clip      | 5F, 6F      | extravascular nitinol clip cinches the arteriotomy closed                                                 |
 | [[the collaterals/procedures/mynx\|Mynx]]                 | Cordis          | passive approximators | sealant   | 5-7F        | extraluminally deployed polyethylene glycol plug while intravascular balloon creates temporary hemostasis |
+| [[the collaterals/procedures/starclose SE\|StarClose SE]] | Abbott Vascular | active approximator   | clip      | 5F, 6F      | extravascular nitinol clip cinches the arteriotomy closed                                                 |
 
 { .block-language-dataview}
 
