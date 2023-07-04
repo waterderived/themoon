@@ -214,7 +214,7 @@ $$ A(GBq) = BSA(m^2) - 0.2 + (\% tumor involvement / 100) $$
 - a treatment paradigm that parallels transarterial chemoembolization is recommended (that is, lobar or sub/segmental infusions)
 	- if a treating physician insists on treatment to the entire liver at once, then a “bilobar lobar” infusion is recommended (placement of catheter in the one followed by the other hepatic artery where infusion is performed)
 
-![[Pasted image 20230130105223.png\|Pasted image 20230130105223.png]]
+![Pasted image 20230704124253.png](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230704124253.png)
 
 #### postprocedure management
 ##### outpatient management
