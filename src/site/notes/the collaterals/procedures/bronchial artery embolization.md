@@ -12,7 +12,7 @@
 ---
 
 > [!info] definition
-> 
+> transarterial embolization of bronchial arteries, often used for the treatment of massive hemoptysis
 
 ### clinical indications
 frequently used in management of **[[hemoptysis#^318b2f\|massive hemoptysis]]** & major hemorrhagic hemoptysis
