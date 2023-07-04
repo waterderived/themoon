@@ -262,8 +262,6 @@ $$ A(GBq) = BSA(m^2) - 0.2 + (\% tumor involvement / 100) $$
 - 
 
 
-
-
 ### complications & management
 - **post-radioembolization syndrome**
 	- fatigue, abdominal pain, nausea, anorexia, fevers
