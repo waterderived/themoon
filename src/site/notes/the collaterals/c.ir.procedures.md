@@ -55,7 +55,7 @@
 - orthopedic emergencies
 
 ##### interventions
-- [[bronchial artery embolization\|bronchial artery embolization]]
+- [[the collaterals/procedures/bronchial artery embolization\|bronchial artery embolization]]
 - pulmonary arteriovenous malformation embolization
 - pulmonary pseudoaneurysm embolization
 - upper gi bleed embolization
