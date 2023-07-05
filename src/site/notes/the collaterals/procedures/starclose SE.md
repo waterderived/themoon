@@ -31,6 +31,8 @@ a nitinol clip is deployed around the arteriotomy, cinching it closed
 6. shuttle the thumb advancer forward splitting the sheath — 💥 a click will be heard
 7. deploy the clip by increasing the angle of the device and pressing the blue button — 💥 a click will be heard
 
+![Pasted image 20230705004406.png](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230705004406.png)
+
 #### manual release
 If the device cannot be retracted after clip deployment, a manual release will need to be performed
 - a small dilator is inserted into the manual release hole on the side of the device
