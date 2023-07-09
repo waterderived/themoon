@@ -42,6 +42,8 @@
 - management of vascular complications
 - enteric tube placement
 - transcatheter fluid drainage
+	- [[the collaterals/procedures/paracentesis\|paracentesis]]
+	- thoracentesis
 
 ### emergency/trauma
 ##### pathology
