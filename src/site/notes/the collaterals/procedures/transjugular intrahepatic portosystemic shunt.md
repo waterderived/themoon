@@ -81,8 +81,13 @@ Targeting can be further aided by use of intravascular ultrasound (IVUS) for cre
 	- guidewires for portal entry are matter of operator preference
 8. Preprocedure echo, in elective cases, is obtained at the discretion of the operator, especialy if elevated right-sided heart pressures and pulmonary hypertension are suspected 
 
-### procedure
+> [!check] informed consent
+> - major complications include
+> - minor complications include
 
+### procedure
+- preferred access: **right internal jugular vein**
+- sonographically-guided puncture of the internal jugular vein is performed
 
 ### postprocedure care
 
