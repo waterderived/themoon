@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/the-collaterals/procedures/paracentesis/"}
 ---
 
+[[the collaterals/c.ir.procedures\|← indications & procedures]]
+
+<br>
+
 # paracentesis
 ---
 
