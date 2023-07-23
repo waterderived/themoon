@@ -17,7 +17,6 @@
 - sedation, anesthesia, and analgesia
 - drug administration
 - contrast media reactions
-- 
 
 #### diagnostic imaging
 
@@ -27,6 +26,9 @@
 - [[the collaterals/procedures/interventional radiology catheters\|catheters]]
 - needles
 - [[the collaterals/procedures/tool selection by vessel\|getting into vessels]]
+- embolic agents
+- stents
+- filters
 
 
 #### other
