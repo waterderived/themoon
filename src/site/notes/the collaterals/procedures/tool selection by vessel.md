@@ -15,11 +15,6 @@
 
 
 
-### visceral vessel cannulation
-##### 110-rule for selective visceral artery cannulation
-(Chuang et. al.) The length of the catheter tip distal to the primary curve and the curve width should be **110% of the native artery width** at the level of the target branch vessel
-
-
 
 ## by anatomic region
 
@@ -33,6 +28,11 @@
 
 
 ### abdomen
+
+#### visceral vessel cannulation
+> [!hint] 110-rule for selective visceral artery cannulation (Chuang et. al.)
+> The length of the catheter tip distal to the primary curve and the curve width should be **110% of the native artery width** at the level of the target branch vessel
+
 
 
 
