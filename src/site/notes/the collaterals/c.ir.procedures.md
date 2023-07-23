@@ -22,6 +22,13 @@
 #### diagnostic imaging
 
 
+#### tools of the trade
+- wires
+- catheters
+- needles
+- [[the collaterals/procedures/tool selection by vessel\|selecting the best tools to get into vessels]]
+
+
 #### other
 - [[catheter reformation techniques\|catheter reformation techniques]]
 
@@ -215,7 +222,7 @@
 ##### interventions
 - [[vertebroplasty\|vertebroplasty]], [[kyphoplasty\|kyphoplasty]]
 - block/neurolysis
-	- [[celiac plexus neurolysis\|celiac plexus neurolysis]] / [[celiac plexus block\|celiac plexus block]]
+	- [[the collaterals/procedures/celiac plexus neurolysis\|celiac plexus neurolysis]] / [[celiac plexus block\|celiac plexus block]]
 
 ### pediatric
 ##### pathology
