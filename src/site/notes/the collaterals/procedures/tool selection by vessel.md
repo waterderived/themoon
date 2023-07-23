@@ -66,7 +66,7 @@ selecting a particular catheter depends on
 
 ---
 
-> [!note]- pages
+> [!note]- info
 > **pages** | 
 > **media** | 
 
