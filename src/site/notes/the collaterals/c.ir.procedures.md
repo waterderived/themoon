@@ -23,10 +23,10 @@
 
 
 #### tools of the trade
-- wires
-- catheters
+- [[the collaterals/procedures/interventional radiology wires\|wires]]
+- [[the collaterals/procedures/interventional radiology catheters\|catheters]]
 - needles
-- [[the collaterals/procedures/tool selection by vessel\|selecting the best tools to get into vessels]]
+- [[the collaterals/procedures/tool selection by vessel\|getting into vessels]]
 
 
 #### other
@@ -234,8 +234,8 @@
 
 ## equipment
 - [[interventional radiology equipment dimensions\|principles of equipment dimensions]]
-- [[interventional radiology wires\|wires]]
-- [[interventional radiology catheters\|catheters]]
+- [[the collaterals/procedures/interventional radiology wires\|wires]]
+- [[the collaterals/procedures/interventional radiology catheters\|catheters]]
 - [[interventional radiology sheaths\|sheaths]]
 - [[embolic agent\|embolics]]
 - stents
