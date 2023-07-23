@@ -3,7 +3,7 @@
 ---
 
 
-[[neukkim/interventional radiology\|← indications & procedures]]
+[[the collaterals/c.ir.procedures\|← indications & procedures]]
 
 <br>
 
