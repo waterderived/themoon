@@ -20,8 +20,12 @@
 ### approach to selecting devices
 selecting a particular catheter depends on 
 - the angle of origin of the target artery
+- the access site (femoral v. radial/brachial)
+
+#### parameters
 
 
+## by vessel course
 
 
 ## by anatomic region
@@ -33,6 +37,7 @@ selecting a particular catheter depends on
 
 
 ### thorax
+#### arch vessel cannulation
 
 
 ### abdomen
