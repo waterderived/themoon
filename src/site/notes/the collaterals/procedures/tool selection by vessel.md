@@ -61,3 +61,15 @@ selecting a particular catheter depends on
 ### lower extremity
 
 
+
+
+
+---
+
+> [!note]- pages
+> **pages** | 
+> **media** | 
+
+> [!abstract] references
+> - Ojha V, Raju SN, Deshpande A, Ganga KP, Kumar S. Catheters in vascular interventional radiology: an illustrated review. Diagnostic and interventional radiology (Ankara, Turkey). 2023 Jan 1;29(1):138-45.
+
