@@ -42,6 +42,7 @@ approved for arterial access site closure and hemostasis after **retrograde comm
 | ------------------------------------------------------------ | --------------- | -------------------- | ------------------------------ | ----------- | -------------------------------------------------------------------------------------------------------------------------- |
 | [[the collaterals/procedures/starclose SE\|StarClose SE]] | Abbott Vascular | active approximator  | clip                           | 5F, 6F      | extravascular nitinol clip cinches the arteriotomy closed                                                                  |
 | [[the collaterals/procedures/angio-seal\|Angio-Seal]]     | Terumo          | passive approximator | collagen plug / implant anchor | 5-8F        | an intravascular footplate and extravascular collagen plug are andwiched around the arteriotomy and anchored with a suture |
+| [[the collaterals/procedures/celt\|Celt]]                 | Vasorum         | passive approximator | plug                           | 5F          | \-                                                                                                                         |
 | [[the collaterals/procedures/mynx\|Mynx]]                 | Cordis          | passive approximator | sealant                        | 5-7F        | extraluminally deployed polyethylene glycol plug while intravascular balloon creates temporary hemostasis                  |
 
 { .block-language-dataview}
