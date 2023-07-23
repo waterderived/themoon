@@ -11,7 +11,15 @@
 ---
 
 ## general principles
+### handling wires & catheters during selection
 
+
+#### maneuvers
+- 
+
+### approach to selecting devices
+selecting a particular catheter depends on 
+- the angle of origin of the target artery
 
 
 
