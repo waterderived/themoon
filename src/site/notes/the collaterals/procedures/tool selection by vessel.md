@@ -20,9 +20,11 @@
 ### approach to selecting devices
 selecting a particular catheter depends on 
 - the angle of origin of the target artery
-- the access site (femoral v. radial/brachial)
+- the access site (e.g. femoral v. radial/brachial)
 
-#### parameters
+principles
+- the primary curve of the catheter must approximate the takeoff angle of the targeted vessel to allow for selection and maintenance of the tip within the ostium of the vessel
+#### parameters to consider
 
 
 ## by vessel course
@@ -37,23 +39,38 @@ selecting a particular catheter depends on
 
 
 ### thorax
-#### arch vessel cannulation
+#### arch vessels
 
 
 ### abdomen
 
-#### visceral vessel cannulation
+#### visceral vessels
 > [!hint] 110-rule for selective visceral artery cannulation (Chuang et. al.)
 > The length of the catheter tip distal to the primary curve and the curve width should be **110% of the native artery width** at the level of the target branch vessel
 
+##### mesenteric
 
 
+##### hepatic
+- **aortic branches (celiac trunk and SMA)** → SOS, Simmons (1 or 2), Cobra
+	- **celiac trunk**: usually comes off anteriorly and superiorly at ~T12
+	- **SMA**: usually comes off anteriorly and inferiorly at ~L1
+	- good practice to perform angio of both when exploring hepatic arteries
+- navigating smaller branches
+	- microwire: **Fathom**
+	- microcatheters
+		- **Renegade Hi-Flo**
+		- **Progreat**
+		- **Direxion, Direxion Hi-Flo**
+
+#### bile ducts
+- **Kumpe** (KMP)
 
 ### pelvis
 
 
 
-#### renal arteries
+#### renal artery cannulation
 
 
 
