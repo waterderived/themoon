@@ -22,10 +22,9 @@
 
 
 #### tools of the trade
-- [[the collaterals/procedures/interventional radiology wires\|wires]]
-- [[the collaterals/procedures/interventional radiology catheters\|catheters]]
 - needles
-- [[the collaterals/procedures/tool selection by vessel\|getting into vessels]]
+- [[the collaterals/procedures/interventional radiology wires\|wires]] & [[the collaterals/procedures/interventional radiology catheters\|catheters]]
+	- [[the collaterals/procedures/tool selection by vessel\|getting into vessels]]
 - embolic agents
 - stents
 - filters
