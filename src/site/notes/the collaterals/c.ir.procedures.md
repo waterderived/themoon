@@ -25,7 +25,7 @@
 - needles
 - [[the collaterals/procedures/interventional radiology wires\|wires]] & [[the collaterals/procedures/interventional radiology catheters\|catheters]]
 	- [[the collaterals/procedures/tool selection by vessel\|getting into vessels]]
-- embolic agents
+- [[embolic agent\|embolic agents]]
 - stents
 - filters
 
@@ -70,7 +70,7 @@
 - pulmonary pseudoaneurysm embolization
 - upper gi bleed embolization
 - lower gi bleed embolization
-- [[splenic embolization\|splenic embolization]]
+- [[splenic artery embolization\|splenic artery embolization]]
 - [[renal embolization\|renal embolization]]
 	- [[renal trauma management\|renal trauma management]]
 - pelvic bleed embolization
