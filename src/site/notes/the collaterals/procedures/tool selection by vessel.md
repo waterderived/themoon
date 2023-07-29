@@ -67,7 +67,7 @@ principles
 - **Kumpe** (KMP)
 
 #### adrenal veins
-- right: 
+- right: **5F renal double curve (RDC)**, mickelson, C1, HS2, SIM1, SIM2
 - left: 
 
 
