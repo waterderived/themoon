@@ -70,7 +70,7 @@
 - pulmonary pseudoaneurysm embolization
 - upper gi bleed embolization
 - lower gi bleed embolization
-- [[splenic artery embolization\|splenic artery embolization]]
+- [[the collaterals/procedures/splenic artery embolization\|splenic artery embolization]]
 - [[renal embolization\|renal embolization]]
 	- [[renal trauma management\|renal trauma management]]
 - pelvic bleed embolization
@@ -187,6 +187,8 @@
 - lung
 	- [[lung tumor ablation\|lung tumor ablation]]
 - spleen
+- adrenals
+	- [[the collaterals/procedures/adrenal vein sampling\|adrenal vein sampling]]
 - msk
 	- musculoskeletal biopsy, aspiration, and injection
 	- musculoskeletal ablation
