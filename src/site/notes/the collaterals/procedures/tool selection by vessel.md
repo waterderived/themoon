@@ -66,6 +66,11 @@ principles
 #### bile ducts
 - **Kumpe** (KMP)
 
+#### adrenal veins
+- right: 
+- left: 
+
+
 ### pelvis
 
 
