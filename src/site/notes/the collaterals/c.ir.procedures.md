@@ -35,7 +35,7 @@
 
 
 ## procedures
-### lines, tubes, drains
+### lines, tubes, drains, samples
 ##### vascular access
 - arterial access
 	- femoral access
@@ -52,6 +52,8 @@
 - transcatheter fluid drainage
 	- [[the collaterals/procedures/paracentesis\|paracentesis]]
 	- thoracentesis
+- [[the collaterals/procedures/adrenal venous sampling\|adrenal vein sampling]]
+- lumbar puncture
 
 ### emergency/trauma
 ##### pathology
@@ -233,17 +235,10 @@
 - [[osteoid osteoma\|osteoid osteoma]]
 
 ##### intervention
-<br>
 
-## equipment
-- [[interventional radiology equipment dimensions\|principles of equipment dimensions]]
-- [[the collaterals/procedures/interventional radiology wires\|wires]]
-- [[the collaterals/procedures/interventional radiology catheters\|catheters]]
-- [[interventional radiology sheaths\|sheaths]]
-- [[embolic agent\|embolics]]
-- stents
-- misc
+
 
 
 ---
+
 
