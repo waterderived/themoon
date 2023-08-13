@@ -18,9 +18,6 @@
 - drug administration
 - contrast media reactions
 
-#### diagnostic imaging
-
-
 #### tools of the trade
 - needles
 - [[the collaterals/procedures/interventional radiology wires\|wires]] & [[the collaterals/procedures/interventional radiology catheters\|catheters]]
@@ -28,6 +25,12 @@
 - [[embolic agent\|embolic agents]]
 - stents
 - filters
+
+#### diagnostic imaging
+
+
+##### physics
+- [[aliasing\|aliasing]]
 
 
 #### other
@@ -190,7 +193,6 @@
 	- [[lung tumor ablation\|lung tumor ablation]]
 - spleen
 - adrenals
-	- [[the collaterals/procedures/adrenal venous sampling\|adrenal venous sampling]]
 - msk
 	- musculoskeletal biopsy, aspiration, and injection
 	- musculoskeletal ablation
