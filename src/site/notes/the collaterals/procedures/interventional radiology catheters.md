@@ -17,8 +17,9 @@
 
 ### classification & types
 
-| graphic | catheter | type | sizes | use |
-| ------- | -------- | ---- | ----- | --- |
+| graphic | catheter                                                     | type      | sizes | use                                                                                                 |
+| ------- | ------------------------------------------------------------ | --------- | ----- | --------------------------------------------------------------------------------------------------- |
+| \-      | [[the collaterals/procedures/SOS catheter\|SOS catheter]] | selective |       | celiac artery/SMA/IMA/RA/RV runs<br>navigating from left brachiocephalic artery to descending aorta |
 
 { .block-language-dataview}
 
