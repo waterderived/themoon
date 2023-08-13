@@ -16,6 +16,12 @@
 
 
 ### classification & types
+
+| graphic | catheter | type | sizes | use |
+| ------- | -------- | ---- | ----- | --- |
+
+{ .block-language-dataview}
+
 #### selective catheters
 
 
