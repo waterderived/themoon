@@ -188,7 +188,7 @@
 	- [[lung tumor ablation\|lung tumor ablation]]
 - spleen
 - adrenals
-	- [[the collaterals/procedures/adrenal vein sampling\|adrenal vein sampling]]
+	- [[the collaterals/procedures/adrenal venous sampling\|adrenal venous sampling]]
 - msk
 	- musculoskeletal biopsy, aspiration, and injection
 	- musculoskeletal ablation
