@@ -11,7 +11,7 @@
 ---
 
 #### the story
-I always admired the 
+
 
 
 #### scouts
