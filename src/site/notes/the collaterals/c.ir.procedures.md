@@ -24,6 +24,7 @@
 	- [[the collaterals/procedures/tool selection by vessel\|getting into vessels]]
 - [[embolic agent\|embolic agents]]
 - stents
+- [[pressure injector\|pressure injectors]]
 - filters
 
 #### diagnostic imaging
