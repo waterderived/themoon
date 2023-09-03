@@ -3,7 +3,7 @@
 ---
 
 
-[[the collaterals/procedures/interventional radiology catheters\|<< catheters]]
+[[the collaterals/procedures/interventional radiology catheters\|← catheters]]
 
 <br>
 
