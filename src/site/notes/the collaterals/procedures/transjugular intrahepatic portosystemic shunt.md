@@ -96,6 +96,36 @@ Targeting can be further aided by use of intravascular ultrasound (IVUS) for cre
 
 
 ### complications
+#### intraprocedural
+
+
+#### early
+##### arterial complications
+
+
+##### acute hepatic encephalopathy
+
+
+##### acute hepatic failure
+
+
+##### biliary complications
+
+
+##### tips migration
+
+
+##### early acute occlusion
+- incidence: 
+
+#### delayed
+##### TIPS stenosis or occlusion
+
+
+##### hernia incarceration
+
+
+##### infection
 
 
 
