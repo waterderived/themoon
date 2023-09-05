@@ -77,7 +77,7 @@
 - upper gi bleed embolization
 - lower gi bleed embolization
 - [[the collaterals/procedures/splenic artery embolization\|splenic artery embolization]]
-- [[renal embolization\|renal embolization]]
+- [[the collaterals/procedures/renal embolization\|renal embolization]]
 	- [[renal trauma management\|renal trauma management]]
 - pelvic bleed embolization
 - retroperitoneal bleed embolization
@@ -164,7 +164,7 @@
 - [[percutaneous transhepatic biliary drainage\|percutaneous transhepatic biliary drainage]]
 - [[the collaterals/procedures/transvenous liver biopsy\|transvenous liver biopsy]]
 - [[the collaterals/procedures/transjugular intrahepatic portosystemic shunt\|transjugular intrahepatic portosystemic shunt]] (tips)
-	- [[transjugular intrahepatic portosystemic shunt revision\|transjugular intrahepatic portosystemic shunt revision]]
+	- [[the collaterals/procedures/transjugular intrahepatic portosystemic shunt revision\|transjugular intrahepatic portosystemic shunt revision]]
 - retrograde transvenous obliteration of varices
 	- [[balloon-occluded retrograde transvenous obliteration\|balloon-occluded retrograde transvenous obliteration]] (brto)
 	- [[balloon-occluded anterograde transvenous obliteration\|balloon-occluded anterograde transvenous obliteration]] (bato)
