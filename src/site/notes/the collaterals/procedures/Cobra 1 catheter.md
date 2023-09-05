@@ -27,7 +27,7 @@ applies to all cobra catheters
 	- renal artery
 - renal arterial catheterization (femoral)
 	- renal angiomyolipoma embolization
-	- [[renal embolization\|renal artery/tumor embolization]]
+	- [[the collaterals/procedures/renal embolization\|renal artery/tumor embolization]]
 - lumbar artery catheterization for hemostatic embolization
 - [[the collaterals/procedures/bronchial artery embolization\|bronchial artery embolization]]
 - aortopulmonary collateral embolization
