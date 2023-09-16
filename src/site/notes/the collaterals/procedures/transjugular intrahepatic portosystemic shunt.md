@@ -87,6 +87,7 @@ Targeting can be further aided by use of intravascular ultrasound (IVUS) for cre
 
 ### procedure
 - preferred access: **right internal jugular vein**
+	- alternative/additional: transhepatic, transsplenic
 - sonographically-guided puncture of the internal jugular vein is performed
 
 ### postprocedure care
