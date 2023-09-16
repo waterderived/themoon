@@ -11,7 +11,7 @@
 ---
 
 #### the story
-
+I always admired the practice that oncologists at our institution have of 
 
 
 #### scouts
