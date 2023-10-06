@@ -65,6 +65,81 @@ body {
 }
 
 
+/* --- inline footnotes --- */
+.inf, .inf:hover, .inf:active, .inf:visited {
+  background-color: #ffffff00;
+  color: #212121 !important;
+}
+
+.theme-light .inf {
+  background-color: ;
+  color: #444445 !important;
+}
+
+.theme-dark .inf {
+  background-color: ;
+  color: #fbfbfb !important;
+}
+
+.inf,.inf:hover {
+  text-decoration: none
+} 
+
+.inf,.inf:not(:hover) span.footnoteContent {
+  display: none;
+} 
+
+.inf:hover span.footnoteContent {
+  display: inline-block;
+} 
+
+.inf {
+  padding: 2px 2px;
+  border-radius: 3px;
+  line-height: 1;
+  vertical-align: text-top;
+  font-size: 9px;
+  margin: -2px 0 0;
+  display: inline-block;
+  font-weight: 500;
+  border-bottom: 0;
+  cursor: pointer
+}
+
+.inf span.footnoteContent {
+  position: absolute;
+  translate: 2px 10px;
+  z-index: 10000;
+  padding: 6px 10px;
+  background-color: #fff;
+  border: 0px solid #acacac;
+  box-shadow: 1px 1px 5px 0 rgba(0,0,0,.2);
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 1pc;
+  letter-spacing: .01em;
+  max-width: 300px
+}
+
+.theme-dark .inf span.footnoteContent {
+  color: #f8f8f8;
+  background-color: #121212;
+  border: 1px solid #353536;
+  box-shadow: 2px 2px 10px 0 rgba(0,0,0,.5);
+}
+
+@media only screen and (min-device-width: 0px) and (max-device-width:480px) {
+  .inf span.footnoteContent {
+      position:fixed;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%)
+  }
+}
+
+/*--- end of inline footnotes ---*/
+	
 /* ---- jisoo's callouts ----- */
 
 /* Sizing Fixes */
@@ -408,6 +483,40 @@ div.callout[data-callout=trivia] {
 div.callout[data-callout=morning] {
 	--callout-icon: coffee;
 	--callout-color: 149, 197, 194;
+}
+
+
+div.callout[data-callout=meds] {
+	--callout-icon: pill;
+	--callout-color: 219, 115, 92;
+}
+
+div.callout[data-callout=rads] {
+	--callout-icon: bone;
+	--callout-color: 124, 161, 154;
+}
+
+
+div.callout[data-callout=profile] {
+	--callout-icon: user;
+	--callout-color: 158, 116, 158;
+}
+
+div.callout[data-callout=prep] {
+	--callout-icon: syringe;
+	--callout-color: 110, 149, 174;
+}
+
+div.callout[data-callout=stats] {
+	--callout-icon: bar-chart-4;
+	--callout-color: 110, 149, 174;
+  float: right;
+  width: 30%;
+}
+
+div.callout[data-callout=litrev] {
+	--callout-icon: bar-chart-3;
+	--callout-color: 134, 149, 215;
 }
 
 .callout[data-callout="references"] {
