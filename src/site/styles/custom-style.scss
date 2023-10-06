@@ -1332,6 +1332,9 @@ body:not(.no-wrapped-dvtable) :is(.markdown-preview-view,.markdown-rendered) .ta
 		bottom: 0;
 		padding-bottom: 10px
 	}
+	.is-mobile img {
+		max-width: 400px;
+	}
 }
 
 
