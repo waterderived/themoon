@@ -954,6 +954,12 @@ div.callout[data-callout=tech] {
 
 /* end of all the callout code */
 
+/*--- mobile ---*/
+@media screen and (max-width:400px) {
+	img {
+		max-width: 95%;
+	}
+}
 
 /* blockquote things */
 	
