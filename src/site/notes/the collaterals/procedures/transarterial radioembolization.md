@@ -25,7 +25,7 @@
 
 ### clinical indications
 
-> [!note] indicators of adequate hepatic reserve
+> [!tip] indicators of adequate hepatic reserve
 > - total bilirubin ≤ 2 mg/dL
 > - albumin > 3 g/cL
 > - normal INR
@@ -285,5 +285,5 @@ $$ A(GBq) = BSA(m^2) - 0.2 + (\% tumor involvement / 100) $$
 > specialty:: [[neukkim/interventional radiology\|interventional radiology]]
 
 > [!abstract]- references
-> [^1]: Vilgrain V, Pereira H, Assenat E, et al. on behalf of the sarah trial group. Efficacy and safety of selective internal radiotherapy with yttrium-90 resin microspheres compared with sorafenib in locally advanced and inoperable hepatocellular carcinoma (sarah): an open-label randomised controlled phase 3 trial. Lancet Oncol 2017;18:1624–36.
+> Vilgrain V, Pereira H, Assenat E, et al. on behalf of the sarah trial group. Efficacy and safety of selective internal radiotherapy with yttrium-90 resin microspheres compared with sorafenib in locally advanced and inoperable hepatocellular carcinoma (sarah): an open-label randomised controlled phase 3 trial. Lancet Oncol 2017;18:1624–36.
 
