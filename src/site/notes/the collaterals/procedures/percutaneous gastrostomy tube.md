@@ -134,9 +134,7 @@ if the tract is dilated instead with a balloon
 
 ###### other procedure modifications
 - number of T-fasteners
-	- 
 - pull-type gastrostomy tube
-	- 
 
 #### exchange
 
