@@ -250,6 +250,14 @@ $$ A(GBq) = BSA(m^2) - 0.2 + (\% tumor involvement / 100) $$
 
 ![Pasted image 20230629214806.png|500](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020230629214806.png)
 
+##### landmark clinical studies
+| trial                                                                | year | design                                 | n  | survival                                                                                                      | rad response                                           | ae                                   | key findings                                                                                                                              | limitations                                                                                                                       |
+| -------------------------------------------------------------------- | ---- | -------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [[the collaterals/literature/c.lit.trial.DOSISPHERE\|DOSISPHERE]] | 2020 | multicenter, randomized phase II trial | 60 | personalized v. standard dosimetry — mOS (ITT): 26.6mo v. 10.7mo, 1y OS: 65.5% v 44.8%, 2y OS: 53.3% v. 22.3% | mPFS (ITT): 6.0mo v. 3.4mo, 3mo ORR (mITT): 71% v. 36% | 20% (personalized) v. 33% (standard) | Personalized dosimetry offers better radiologic response and survival than standard dosimetry and is associated with fewer adverse events | small sample size, MAA as surrogate for microsphere debatable, only tumors ≥ 7cm included, questionable generalizability to resin |
+| [[the collaterals/literature/c.lit.trial.Dhondt_TRACE\|TRACE]]    | 2022 | \-                                     | \- | \-                                                                                                            | \-                                                     | \-                                   | \-                                                                                                                                        | \-                                                                                                                                |
+
+{ .block-language-dataview}
+
 #### metastatic colorectal disease to the liver
 - median survival in **salvage** setting (after failing minimum second line systemic therapies) ~10.5mo
 - novel concepts in combo with chemotherapy studied — trials combining radioembo with 1st or 2nd-line chemo underway
