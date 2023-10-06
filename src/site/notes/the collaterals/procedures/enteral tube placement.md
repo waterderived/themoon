@@ -6,11 +6,12 @@
 [[the collaterals\|← indications and procedures]]
 
 <br>
-# percutaneous enteral tube placement
+
+# percutaneous enteral tubes
 ---
 
 > [!info] definition
-
+> 
 
 ### overview
 #### types of tubes
@@ -18,7 +19,7 @@
 	- [[percutaneous gastrostomy tube\|gastrostomy (g-tube)]]
 		- simplest technically, requiring the least manipulation
 		- shortest tube, providing for less clogging over time
-		- preserves gastric function, allowing for high hiet variety and simplicity in maintenance
+		- preserves gastric function, allowing for high diet variety and simplicity in maintenance
 		- can be converted into gastrojejunostomy (gj) tube after percutaneous tract matures (**10-21 days**)
 	-  [[percutaneous jejunostomy tube placement\|jejunostomy (j-tube)]]
 		- bypasses the stomach, requires elemental diet and slow pump infusion to prevent dumping syndrome
