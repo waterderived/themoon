@@ -320,6 +320,7 @@ body {
 }
 
 /* Callout Type Styling */
+	
 .callout {
 	--callout-color: 200, 175, 155;
 }
@@ -475,6 +476,12 @@ body {
 	--callout-color: 124, 161, 154;
 }
 
+div.callout[data-callout=tech] {
+	--callout-icon: bot;
+	--callout-color: 214, 88, 72;
+  	width: 50%;
+  	float: right;
+}
 
 .callout[data-callout="profile"] {
 	--callout-icon: lucide-user;
@@ -489,8 +496,8 @@ body {
 .callout[data-callout="stats"] {
 	--callout-icon: lucide-bar-chart-4;
 	--callout-color: 110, 149, 174;
-  float: right;
-  width: 30%;
+  	float: right;
+  	width: 30%;
 }
 
 .callout[data-callout="litrev"] {
@@ -528,10 +535,10 @@ body {
 	transform: rotate(-20deg);
 }
 
-div.callout[data-callout*="celebrate"] .callout-icon,
-div.callout[data-callout*="celebrate"] .callout-fold,
-div.callout[data-callout*="success"] .callout-icon,
-div.callout[data-callout*="success"] .callout-fold {
+.callout[data-callout*="celebrate"] .callout-icon,
+.callout[data-callout*="celebrate"] .callout-fold,
+.callout[data-callout*="success"] .callout-icon,
+.callout[data-callout*="success"] .callout-fold {
 	color: var(--md-color-text);
 }
 
@@ -547,8 +554,8 @@ div.callout[data-callout*="success"] .callout-fold {
 	color: #1e2021;
 }
 
-div.callout[data-callout*="fire"] .callout-icon,
-div.callout[data-callout*="fire"] .callout-fold {
+.callout[data-callout*="fire"] .callout-icon,
+.callout[data-callout*="fire"] .callout-fold {
 	color: var(--md-color-text);
 }
 
