@@ -170,35 +170,6 @@ body {
 	transition: 70ms cubic-bezier(0.45, 0.05, 0.55, 0.95);
 }
 
-.markdown-source-view .callout {
-	font-family: var(--font-editor-theme);
-	font-size: 10px;
-	letter-spacing: 0.75px;
-  	padding-top: 2px;
-}
-
-.markdown-source-view.mod-cm6 .callout {
-	border-width: 0;
-	margin: 0 0;
-	border-top-right-radius: 8px;
-	border-bottom-right-radius: 8px;
-	padding-bottom: 20px;
-	padding-right: 20px;
-	box-shadow: none !important;
-}
-
-.markdown-preview-view .callout {
-	font-family: var(--font-text-theme);
-	font-size: 10px;
-	letter-spacing: 0.75px;
-	padding-bottom: 12px;
-	padding-top: 14px;
-	padding-right: 12px;
-	padding-left: 12px;
-	margin-bottom: 0px;
-	box-shadow: none !important;
-}
-
 .callout-content {
 	font-size: 11px;
 	padding: 0px 1.5em;
@@ -341,180 +312,180 @@ body {
 }
 
 /* Callout Type Styling */
-div.callout {
+.callout {
 	--callout-color: 200, 175, 155;
 }
 
-div.callout[data-callout=note] {
+.callout[data-callout=note] {
 	--callout-color: 145, 125, 105;
 }
 
-div.callout[data-callout=abstract] {
+.callout[data-callout=abstract] {
 	--callout-icon: loader;
 	--callout-color: 67, 106, 160;
 }
 
-div.callout[data-callout=summary] {
+.callout[data-callout=summary] {
 	--callout-icon: align-justify;
 	--callout-color: 255, 221, 88;
 }
 
-div.callout[data-callout=summary] .callout-title {
+.callout[data-callout=summary] .callout-title {
 	color: #e7b434;
 }
 
-div.callout[data-callout=tldr] {
+.callout[data-callout=tldr] {
 	--callout-icon: clock-4;
 	--callout-color: 228, 171, 157;
 }
 
-div.callout[data-callout=info] {
+.callout[data-callout=info] {
 	--callout-color: 134, 153, 149;
 }
 
-div.callout[data-callout=todo] {
+.callout[data-callout=todo] {
 	--callout-icon: check-square;
 	--callout-color: 97, 160, 176;
 }
 
-div.callout[data-callout=tip] {
+.callout[data-callout=tip] {
 	--callout-icon: clover;
 	--callout-color: 136, 152, 146;
 }
 
-div.callout[data-callout=hint] {
+.callout[data-callout=hint] {
 	--callout-icon: search;
 	--callout-color: 100, 174, 162;
 }
 
-div.callout[data-callout=important] {
+.callout[data-callout=important] {
 	--callout-icon: asterisk;
 	--callout-color: 189, 91, 80;
 }
 
-div.callout[data-callout=check] {
+.callout[data-callout=check] {
 	--callout-icon: check;
 	--callout-color: 159, 183, 135;
 }
 
-div.callout[data-callout=done] {
+.callout[data-callout=done] {
 	--callout-icon: check;
 	--callout-color: 124, 138, 99;
 }
 
-div.callout[data-callout=question] {
+.callout[data-callout=question] {
 	--callout-color: 134, 153, 149;
 }
 
-div.callout[data-callout=help] {
+.callout[data-callout=help] {
 	--callout-color: 134, 104, 172;
 }
 
-div.callout[data-callout=faq] {
+.callout[data-callout=faq] {
 	--callout-color: 130, 190, 235;
 }
 
-div.callout[data-callout=warning] {
+.callout[data-callout=warning] {
 	--callout-color: 222, 98, 84;
 }
 
-div.callout[data-callout=caution] {
+.callout[data-callout=caution] {
 	--callout-color: 219, 173, 21;
 }
 
-div.callout[data-callout=attention] {
+.callout[data-callout=attention] {
 	--callout-color: 119, 135, 186;
 }
 
-div.callout[data-callout=fail],
-div.callout[data-callout=failure] {
+.callout[data-callout=fail],
+.callout[data-callout=failure] {
 	--callout-color: 222, 98, 84;
 }
 
-div.callout[data-callout=missing] {
+.callout[data-callout=missing] {
 	--callout-color: 222, 98, 84;
 }
 
-div.callout[data-callout=danger] {
+.callout[data-callout=danger] {
 	--callout-color: 238, 102, 12;
 }
 
-div.callout[data-callout=error] {
+.callout[data-callout=error] {
 	--callout-icon: alert-circle;
 	--callout-color: 222, 98, 84;
 }
 
-div.callout[data-callout=bug] {
+.callout[data-callout=bug] {
 	--callout-color: 162, 41, 93;
 }
 
-div.callout[data-callout=example] {
+.callout[data-callout=example] {
 	--callout-color: 134, 104, 172;
 }
 
-div.callout[data-callout=quote] {
+.callout[data-callout=quote] {
 	--callout-color: 158, 158, 158;
 }
 
-div.callout[data-callout=cite] {
+.callout[data-callout=cite] {
 	--callout-color: 158, 158, 158;
 }
 
-div.callout[data-callout=pro] {
+.callout[data-callout=pro] {
 	--callout-icon: thumbs-up;
 	--callout-color: 118, 192, 121;
 }
 
-div.callout[data-callout=con] {
+.callout[data-callout=con] {
 	--callout-icon: thumbs-down;
 	--callout-color: 255, 75, 75;
 }
 
-div.callout[data-callout=idea] {
+.callout[data-callout=idea] {
 	--callout-icon: lightbulb;
 	--callout-color: 128, 165, 189;
 }
 
-div.callout[data-callout=trivia] {
+.callout[data-callout=trivia] {
 	--callout-icon: lightbulb;
 	--callout-color: 158, 158, 158;
 }
 
-div.callout[data-callout=morning] {
+.callout[data-callout=morning] {
 	--callout-icon: coffee;
 	--callout-color: 149, 197, 194;
 }
 
 
-div.callout[data-callout=meds] {
+.callout[data-callout=meds] {
 	--callout-icon: pill;
 	--callout-color: 219, 115, 92;
 }
 
-div.callout[data-callout=rads] {
+.callout[data-callout=rads] {
 	--callout-icon: bone;
 	--callout-color: 124, 161, 154;
 }
 
 
-div.callout[data-callout=profile] {
+.callout[data-callout=profile] {
 	--callout-icon: user;
 	--callout-color: 158, 116, 158;
 }
 
-div.callout[data-callout=prep] {
+.callout[data-callout=prep] {
 	--callout-icon: syringe;
 	--callout-color: 110, 149, 174;
 }
 
-div.callout[data-callout=stats] {
+.callout[data-callout=stats] {
 	--callout-icon: bar-chart-4;
 	--callout-color: 110, 149, 174;
   float: right;
   width: 30%;
 }
 
-div.callout[data-callout=litrev] {
+.callout[data-callout=litrev] {
 	--callout-icon: bar-chart-3;
 	--callout-color: 134, 149, 215;
 }
