@@ -59,6 +59,10 @@ in patients with [[head and neck cancer\|head and neck malignancies]] and/or res
 - or maybe have anesthesia on hand if minimal conscious sedation is not possible
 
 ### procedure
+
+> [!tech] g-tube for venting
+> \[📟 **mccarthy**] often, the normal g-tubes tend to be **bad for venting** bc they are too short and gastric contents are dependent and collect posteriorly in a supine patient — opt for a modified tube!
+
 #### primary placement
 ##### tube choice
 - <u>sizing</u>
@@ -67,6 +71,13 @@ in patients with [[head and neck cancer\|head and neck malignancies]] and/or res
 	- Deutsch catheter (Cook)
 	- 12Fr multipurpose locking loop multipurpose drainage catheter may also be used
 
+
+
+> [!tech] on marking the liver
+> **why do it?** ideally, you don't want the tract going through liver parenchyma 
+> **does it really help?** preprocedure imaging and/or in-procedure cone beam are probably more useful, but it helps to have a general idea when trying to figure out where to stick
+
+<br>
 ##### setup
 - <u>prep</u>: L subcostal area + epigastrum
 	- some attendings prefer whole upper abdomen
