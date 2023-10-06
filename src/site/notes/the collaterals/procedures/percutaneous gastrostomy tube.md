@@ -6,6 +6,7 @@
 [[the collaterals\|← indications and procedures]]
 
 <br>
+
 # percutaneous gastrostomy tube
 ---
 
