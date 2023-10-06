@@ -3,7 +3,7 @@
 ---
 
 
-[[the collaterals\|← indications and procedures]]
+[[the collaterals/c.ir.procedures\|← indications and procedures]]
 
 <br>
 
