@@ -11,7 +11,8 @@
 ---
 
 #### the story
-I always admired the practice that oncologists have of 
+
+> "One view is no view." — *Unknown*
 
 
 #### scouts
