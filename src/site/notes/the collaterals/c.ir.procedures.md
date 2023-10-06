@@ -52,8 +52,8 @@
 	- subcutaneous port placement
 - [[the collaterals/procedures/vascular closure devices\|vascular closure devices]]
 - management of vascular complications
-- enteric tube placement
-- transcatheter fluid drainage
+- [[the collaterals/procedures/enteral tube placement\|enteral tube placement]]
+- percutaneous transcatheter fluid drainage
 	- [[the collaterals/procedures/paracentesis\|paracentesis]]
 	- thoracentesis
 - [[the collaterals/procedures/adrenal venous sampling\|adrenal vein sampling]]
