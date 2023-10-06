@@ -105,7 +105,7 @@ in patients with [[head and neck cancer\|head and neck malignancies]] and/or res
 	- \[📟 **vijay**] generally, it's fine to check after placing the T-tacks, not a huge deal if needles that size stick the colon
 	- \[📟 **holzwanger**] \* is nervous about sticking colon even with a 22G needle \*
 
-> ![350](app://fb36b2a65dda138d0ec409e8e3d4b5208f58/C:/Users/Nicole%20Jisoo%20Kim/Dropbox%20(Brown)/OBSIDIAN/the%20nest/kitchen%20drawer/attachments/Pasted%20image%2020231005232902.png?1696562943108)
+> ![Pasted image 20231006001802.png|350](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020231006001802.png)
 > **TIP: using the hemostat to decide on a location for the T-fasteners and tube** <span class="inf">🌐<span title="" class="footnoteContent">Image Source: BackTable Vascular & Interventional. "Gastrostomy Tube Placement (G-Tube) by Interventional Radiology | BackTable Demo".</span></span>
 > If using 2 T-tacks, can plan location with the 2 holes of the hemostat, and the G-tube can fit in the area between them. 
 
