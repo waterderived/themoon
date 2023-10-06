@@ -16,7 +16,7 @@
 ### overview
 #### types of tubes
 - dedicated sing function (feeding vs. decompression alone)
-	- [[percutaneous gastrostomy tube\|gastrostomy (g-tube)]]
+	- [[the collaterals/procedures/percutaneous gastrostomy tube\|gastrostomy (g-tube)]]
 		- simplest technically, requiring the least manipulation
 		- shortest tube, providing for less clogging over time
 		- preserves gastric function, allowing for high diet variety and simplicity in maintenance
