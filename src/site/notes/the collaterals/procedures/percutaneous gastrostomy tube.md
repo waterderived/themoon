@@ -11,7 +11,7 @@
 ---
 
 > [!info] definition
-> a type of [[percutaneous enteral tube placement\|enteric tube]] with internal tip in the lumen of the stomach used for feeding, medication administration, or venting
+> a type of [[the collaterals/procedures/enteral tube placement\|enteric tube]] with internal tip in the lumen of the stomach used for feeding, medication administration, or venting
 
 
 
