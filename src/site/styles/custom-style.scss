@@ -76,11 +76,11 @@ h6 {
 } */
 
 
-body:not(.no-wrapped-dvtable) :is(.markdown-preview-view,.markdown-rendered) table>tbody>tr>td, body:not(.no-wrapped-dvtable) .markdown-source-view.mod-cm6 .table-view-table>tbody>tr>td {
+body:not(.no-wrapped-dvtable) :is(.markdown-preview-view,.markdown-rendered) tbody>tr>td, body:not(.no-wrapped-dvtable) .markdown-source-view.mod-cm6 .table-view-table>tbody>tr>td {
 	max-width: 100%;
 }
 
-.raincards .markdown-rendered tbody>tr>td:first-child, .markdown-source-view.mod-cm6.raincards table>tbody>tr>td:first-child {
+.raincards .markdown-rendered tbody>tr>td:first-child, .markdown-source-view.mod-cm6.raincards tbody>tr>td:first-child {
 	background-color: var(--raincards-title-background);
 	padding: 0px, 0px, 5.6px ;
 }
@@ -145,7 +145,7 @@ body:not(.no-wrapped-dvtable) :is(.markdown-preview-view,.markdown-rendered) tab
 	grid-row-gap: 0.75rem
 }
 
-.raincards table>tbody>tr {
+.raincards tbody>tr {
 	background-color: var(--raincards-background);
 	border: var(--raincards-border-width) solid var(--background-modifier-border);
 	display: flex;
@@ -157,18 +157,18 @@ body:not(.no-wrapped-dvtable) :is(.markdown-preview-view,.markdown-rendered) tab
 	transition: box-shadow .15s linear
 }
 
-.raincards table>tbody>tr:hover {
+.raincards tbody>tr:hover {
 	border: var(--raincards-border-width) solid var(--background-modifier-border-hover);
 	box-shadow: 0 4px 6px 0 rgba(0, 0, 0, .05), 0 1px 3px 1px rgba(0, 0, 0, .025);
 	transition: box-shadow .15s linear
 }
 
-.markdown-source-view.mod-cm6.raincards .dataview.table-view-table>tbody>tr>td,
-.trim-cols .raincards table.dataview tbody>tr>td {
+.markdown-source-view.mod-cm6.raincards tbody>tr>td,
+.trim-cols .raincards tbody>tr>td {
 	white-space: normal
 }
 
-.raincards table.dataview tbody>tr>td,
+.raincards tbody>tr>td,
 .markdown-source-view.mod-cm6.raincards .dataview.table-view-table>tbody>tr>td {
 	border-bottom: none;
 	padding: 0 !important;
@@ -180,134 +180,134 @@ body:not(.no-wrapped-dvtable) :is(.markdown-preview-view,.markdown-rendered) tab
 	display: flex
 }
 
-.raincards table.dataview tbody>tr>td .el-p {
+.raincards tbody>tr>td .el-p {
 	display: block;
 	width: 100%
 }
 
-.raincards table.dataview tbody>tr>td:first-child {
+.raincards tbody>tr>td:first-child {
 	font-weight: var(--bold-weight)
 }
 
-.raincards table.dataview tbody>tr>td:first-child a {
+.raincards tbody>tr>td:first-child a {
 	padding: 0 0 calc(var(--raincards-padding)/3);
 	display: block
 }
 
-.raincards table.dataview tbody>tr>td:not(:first-child) {
+.raincards tbody>tr>td:not(:first-child) {
 	font-size: 90%;
 	color: var(--text-muted)
 }
 
 @media (max-width:400pt) {
-	.raincards table.dataview tbody>tr>td:not(:first-child) {
+	.raincards tbody>tr>td:not(:first-child) {
 		font-size: 80%
 	}
 }
 
-.raincards-cover.raincards table.dataview tbody>tr>td img {
+.raincards-cover.raincards tbody>tr>td img {
 	object-fit: cover
 }
 
-.raincards-16-9.raincards table.dataview tbody>tr>td img {
+.raincards-16-9.raincards tbody>tr>td img {
 	aspect-ratio: 16/9
 }
 
-.raincards-1-1.raincards table.dataview tbody>tr>td img {
+.raincards-1-1.raincards tbody>tr>td img {
 	aspect-ratio: 1/1
 }
 
-.raincards-2-1.raincards table.dataview tbody>tr>td img {
+.raincards-2-1.raincards tbody>tr>td img {
 	aspect-ratio: 2/1
 }
 
-.raincards-2-3.raincards table.dataview tbody>tr>td img {
+.raincards-2-3.raincards tbody>tr>td img {
 	aspect-ratio: 2/3
 }
 
-.raincards-align-bottom.raincards table.dataview tbody>tr>td:last-child {
+.raincards-align-bottom.raincards tbody>tr>td:last-child {
 	align-items: flex-end;
 	flex-grow: 1
 }
 
-.raincards-cols-1 table.dataview tbody {
+.raincards-cols-1 tbody {
 	grid-template-columns: repeat(1, minmax(0, 1fr))
 }
 
-.raincards-cols-2 table.dataview tbody {
+.raincards-cols-2 tbody {
 	grid-template-columns: repeat(2, minmax(0, 1fr))
 }
 
 @media (min-width:400pt) {
-	.raincards-cols-3 table.dataview tbody {
+	.raincards-cols-3 tbody {
 		grid-template-columns: repeat(3, minmax(0, 1fr))
 	}
 
-	.raincards-cols-4 table.dataview tbody {
+	.raincards-cols-4 tbody {
 		grid-template-columns: repeat(4, minmax(0, 1fr))
 	}
 
-	.raincards-cols-5 table.dataview tbody {
+	.raincards-cols-5 tbody {
 		grid-template-columns: repeat(5, minmax(0, 1fr))
 	}
 
-	.raincards-cols-6 table.dataview tbody {
+	.raincards-cols-6 tbody {
 		grid-template-columns: repeat(6, minmax(0, 1fr))
 	}
 
-	.raincards-cols-7 table.dataview tbody {
+	.raincards-cols-7 tbody {
 		grid-template-columns: repeat(7, minmax(0, 1fr))
 	}
 
-	.raincards-cols-8 table.dataview tbody {
+	.raincards-cols-8 tbody {
 		grid-template-columns: repeat(8, minmax(0, 1fr))
 	}
 }
 
-.raincards table.dataview tbody>tr>td>:not(.el-embed-image) {
+.raincards tbody>tr>td>:not(.el-embed-image) {
 	padding: calc(var(--raincards-padding)/3) 0
 }
 
-.raincards table.dataview tbody>tr>td:not(:last-child):not(:first-child)>.el-p:not(.el-embed-image) {
+.raincard tbody>tr>td:not(:last-child):not(:first-child)>.el-p:not(.el-embed-image) {
 	border-bottom: 1px solid var(--background-modifier-border);
 	width: 100%
 }
 
-.raincards table.dataview tbody>tr>td a {
+.raincards tbody>tr>td a {
 	text-decoration: none
 }
 
-.links-int-on .raincards table.dataview tbody>tr>td a {
+.links-int-on .raincards tbody>tr>td a {
 	text-decoration: none
 }
 
-.raincards table.dataview tbody>tr>td>button {
+.raincards tbody>tr>td>button {
 	width: 100%;
 	margin: calc(var(--raincards-padding)/2) 0
 }
 
-.raincards table.dataview tbody>tr>td:last-child>button {
+.raincards tbody>tr>td:last-child>button {
 	margin-bottom: calc(var(--raincards-padding)/6)
 }
 
-.raincards table.dataview tbody>tr>td>ul {
+.raincards tbody>tr>td>ul {
 	width: 100%;
 	padding: .25em 0 !important;
 	margin: 0 auto !important
 }
 
-.raincards table.dataview tbody>tr>td:not(:last-child)>ul {
+.raincards tbody>tr>td:not(:last-child)>ul {
 	border-bottom: 1px solid var(--background-modifier-border)
 }
 
-.raincards table.dataview tbody>tr>td .el-embed-image {
+.raincards tbody>tr>td .el-embed-image {
 	background-color: var(--background-secondary);
 	display: block;
 	margin: 0 calc(var(--raincards-padding)/-2) 0 calc(var(--raincards-padding)/-2);
 	width: calc(100% + var(--raincards-padding))
 }
 
-.raincards table.dataview tbody>tr>td img {
+.raincards tbody>tr>td img {
 	width: 100%;
 	object-fit: var(--raincards-image-fit);
 	max-height: var(--raincards-image-height);
@@ -323,17 +323,17 @@ body:not(.no-wrapped-dvtable) :is(.markdown-preview-view,.markdown-rendered) tab
 	background-color: transparent
 }
 
-.raincards.table-100 table.dataview thead>tr,
-.table-100 .raincards table.dataview thead>tr {
+.raincards.table-100 thead>tr,
+.table-100 .raincards thead>tr {
 	right: .75rem
 }
 
-.raincards.table-100 table.dataview thead:before,
-.table-100 .raincards table.dataview thead:before {
+.raincards.table-100 thead:before,
+.table-100 .raincards thead:before {
 	margin-right: .75rem
 }
 
-.raincards table.dataview thead {
+.raincards thead {
 	user-select: none;
 	width: 180px;
 	display: block;
@@ -344,7 +344,7 @@ body:not(.no-wrapped-dvtable) :is(.markdown-preview-view,.markdown-rendered) tab
 	padding-bottom: 4px
 }
 
-.raincards table.dataview thead:before {
+.raincards thead:before {
 	content: '';
 	position: absolute;
 	right: 0;
@@ -360,22 +360,22 @@ body:not(.no-wrapped-dvtable) :is(.markdown-preview-view,.markdown-rendered) tab
 	font-size: var(--font-adaptive-small)
 }
 
-.raincards table.dataview thead:before {
+.raincards thead:before {
 	opacity: .25;
 	background-position: center center;
 	background-size: var(--icon-size);
 	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 100"><path fill="white" d="M49.792 33.125l-5.892 5.892L33.333 28.45V83.333H25V28.45L14.438 39.017L8.542 33.125L29.167 12.5l20.625 20.625zm41.667 33.75L70.833 87.5l-20.625 -20.625l5.892 -5.892l10.571 10.567L66.667 16.667h8.333v54.883l10.567 -10.567l5.892 5.892z"></path></svg>')
 }
 
-.theme-light .raincards table.dataview thead:before {
+.theme-light .raincards thead:before {
 	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 100"><path fill="black" d="M49.792 33.125l-5.892 5.892L33.333 28.45V83.333H25V28.45L14.438 39.017L8.542 33.125L29.167 12.5l20.625 20.625zm41.667 33.75L70.833 87.5l-20.625 -20.625l5.892 -5.892l10.571 10.567L66.667 16.667h8.333v54.883l10.567 -10.567l5.892 5.892z"></path></svg>')
 }
 
-.raincards table.dataview thead:hover:before {
+.raincards thead:hover:before {
 	opacity: .5
 }
 
-.raincards table.dataview thead>tr {
+.raincards thead>tr {
 	top: 0;
 	position: absolute;
 	display: none;
@@ -390,11 +390,11 @@ body:not(.no-wrapped-dvtable) :is(.markdown-preview-view,.markdown-rendered) tab
 	width: 100%
 }
 
-.raincards table.dataview thead:hover>tr {
+.raincards thead:hover>tr {
 	display: flex
 }
 
-.raincards table.dataview thead>tr>th {
+.raincards thead>tr>th {
 	display: block;
 	padding: 3px 30px 3px 6px !important;
 	border-radius: 5px;
@@ -406,12 +406,12 @@ body:not(.no-wrapped-dvtable) :is(.markdown-preview-view,.markdown-rendered) tab
 	font-size: var(--font-adaptive-small)
 }
 
-.raincards table.dataview thead>tr>th[sortable-style=sortable-asc],
-.raincards table.dataview thead>tr>th[sortable-style=sortable-desc] {
+.raincards thead>tr>th[sortable-style=sortable-asc],
+.raincards thead>tr>th[sortable-style=sortable-desc] {
 	color: var(--text-normal)
 }
 
-.raincards table.dataview thead>tr>th:hover {
+.raincards thead>tr>th:hover {
 	color: var(--text-normal);
 	background-color: var(--background-tertiary)
 }
