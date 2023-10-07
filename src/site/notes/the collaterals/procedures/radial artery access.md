@@ -55,7 +55,7 @@
 > Before pushing the cocktail (esp the heparin), aspirate a decent amount of blood to dilute the med before adminstering to minimize pain/burning from vessel irritation
 
 ![Pasted image 20231007141724.png|300](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020231007141724.png)
-![Pasted image 20231007141740.png|300](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020231007141740.png)
+![Pasted image 20231007142744.png|300](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020231007142744.png)
 
 *Image* <span class="inf">🌐<span title="" class="footnoteContent">Source: Lewandowski R, Machan L, Patel PJ, Kandarpa K. Handbook of Interventional Radiologic Procedures. Lippincott Williams and Wilkins; 2023 Mar 28.</span></span>
 A. The hand is placed supine and in slight dorsiflexion with a towel or dedicated splint. Palpation or US guidance is then used to get micropuncture access into the radial artery
