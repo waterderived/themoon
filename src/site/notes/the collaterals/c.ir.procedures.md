@@ -43,7 +43,7 @@
 ##### vascular access
 - arterial access
 	- femoral access
-	- radial access
+	- [[the collaterals/procedures/radial artery access\|radial access]]
 	- alternative arterial access sites
 - [[central venous access\|central venous access]]
 	- picc placement
@@ -231,6 +231,7 @@
 - [[vertebroplasty\|vertebroplasty]], [[kyphoplasty\|kyphoplasty]]
 - block/neurolysis
 	- [[the collaterals/procedures/celiac plexus neurolysis\|celiac plexus neurolysis]] / [[celiac plexus block\|celiac plexus block]]
+	- [[the collaterals/procedures/superior hypogastric nerve block\|superior hypogastric nerve block]]
 
 ### pediatric
 ##### pathology
