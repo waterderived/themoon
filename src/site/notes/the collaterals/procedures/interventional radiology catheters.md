@@ -17,6 +17,7 @@
 
 ### classification & types
 
+
 | graphic                                                                        | catheter                                                                   | type      | sizes                                                                                      | use                                                                                                 |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
 | \-                                                                             | [[the collaterals/procedures/Cobra 1 catheter\|Cobra 1 catheter]]       | selective | 4F, 5F, 6F (urology)                                                                       |                                                                                                     |
@@ -24,6 +25,7 @@
 | \-                                                                             | [[the collaterals/procedures/SOS catheter\|SOS catheter]]               | selective |                                                                                            | celiac artery/SMA/IMA/RA/RV runs<br>navigating from left brachiocephalic artery to descending aorta |
 
 { .block-language-dataview}
+
 
 #### selective catheters
 
