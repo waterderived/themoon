@@ -57,6 +57,7 @@
 ![Pasted image 20231007141724.png|300](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020231007141724.png)
 ![Pasted image 20231007141740.png|300](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020231007141740.png)
 
+*Image* <span class="inf">🌐<span title="" class="footnoteContent">Source: Lewandowski R, Machan L, Patel PJ, Kandarpa K. Handbook of Interventional Radiologic Procedures. Lippincott Williams and Wilkins; 2023 Mar 28.</span></span>
 A. The hand is placed supine and in slight dorsiflexion with a towel or dedicated splint. Palpation or US guidance is then used to get micropuncture access into the radial artery
 B. axial and C. longitudinal views
 D. Using the Seldinger technique, a sheath is advanced over the wire for stable access into the artery
@@ -73,4 +74,13 @@ D. Using the Seldinger technique, a sheath is advanced over the wire for stable 
 
 
 ---
+
+
+> [!note]- related
+> - **pages** | 
+> - **media** | 
+
+> [!references]- references
+> Lewandowski R, Machan L, Patel PJ, Kandarpa K. Handbook of Interventional Radiologic Procedures. Lippincott Williams & Wilkins; 2023 Mar 28.
+
 
