@@ -10,7 +10,7 @@
 # mikaelsson catheter (merit)
 ---
 
-> ![[48038MIK-450x450.png.webp|350]]
+![mikaelsson preview.png|200](/img/user/kitchen%20drawer/attachments/mikaelsson%20preview.png)
 
 
 
