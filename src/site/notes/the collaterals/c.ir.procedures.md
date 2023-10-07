@@ -107,7 +107,7 @@
 - visceral aneurysm
 
 ##### interventions
-- [[uterine artery embolization\|uterine artery embolization]]
+- [[the collaterals/procedures/uterine artery embolization\|uterine artery embolization]]
 - [[prostate artery embolization\|prostate artery embolization]]
 
 #### lower extremity & infrainguinal
