@@ -24,6 +24,13 @@
 
 
 
+![Pasted image 20231007132551.png](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020231007132551.png)
+
+![Pasted image 20231007132637.png](/img/user/kitchen%20drawer/attachments/Pasted%20image%2020231007132637.png)
+
+
+### troubleshooting
+
 <br>
 
 ---
