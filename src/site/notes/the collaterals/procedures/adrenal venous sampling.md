@@ -26,7 +26,7 @@
 ### relevant anatomy & physiology
 
 
-### pre-procedure prep
+### pre-procedure preparation
 - labs
 	- potassium
 	- aldosterone
@@ -85,7 +85,7 @@
 > - **pages** | 
 > - **media** | 
 
-> [!abstract]- references
-> - JVIR | [Adrenal Vein Sampling](https://www.youtube.com/watch?v=te5pvrOQWXs)
+> [!references]- references
+> [Adrenal Vein Sampling](https://www.youtube.com/watch?v=te5pvrOQWXs). *JVIR*.
 
 
