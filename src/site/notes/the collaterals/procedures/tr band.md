@@ -27,8 +27,10 @@
 - begin titration of air by removing ~1 cc per second while observing the access site for bleeding. once bleeding occurs, inject 1-2cc of air until bleeding stops
 - confirm radial pulse and evaluate radial artery patency by using the reverse Barbeau test
 
+#### troubleshooting
 
-### troubleshooting
+
+### observation
 
 
 
