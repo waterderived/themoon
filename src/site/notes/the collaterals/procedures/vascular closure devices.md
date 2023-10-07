@@ -47,6 +47,12 @@ approved for arterial access site closure and hemostasis after **retrograde comm
 
 { .block-language-dataview}
 
+| device                                             | manufacturer | type                       | mechanism           | sheath size | notes                                                         |
+| -------------------------------------------------- | ------------ | -------------------------- | ------------------- | ----------- | ------------------------------------------------------------- |
+| [[the collaterals/procedures/tr band\|TR Band]] | Terumo       | mechanical compression aid | balloon compression | any         | device is positioned around patient, then balloon is inflated |
+
+{ .block-language-dataview}
+
 ### procedure
 
 
