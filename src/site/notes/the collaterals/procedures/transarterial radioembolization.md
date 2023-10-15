@@ -292,6 +292,6 @@ $$ A(GBq) = BSA(m^2) - 0.2 + (\% tumor involvement / 100) $$
 > system:: 
 > specialty:: [[neukkim/interventional radiology\|interventional radiology]]
 
-> [!abstract]- references
-> Vilgrain V, Pereira H, Assenat E, et al. on behalf of the sarah trial group. Efficacy and safety of selective internal radiotherapy with yttrium-90 resin microspheres compared with sorafenib in locally advanced and inoperable hepatocellular carcinoma (sarah): an open-label randomised controlled phase 3 trial. Lancet Oncol 2017;18:1624–36.
+> [!references]- references
+> Vilgrain V, Pereira H, Assenat E, et al. on behalf of the sarah trial group. Efficacy and safety of selective internal radiotherapy with yttrium-90 resin microspheres compared with sorafenib in locally advanced and inoperable hepatocellular carcinoma (sarah): an open-label randomised controlled phase 3 trial. Lancet Oncol 2017;18:1624–36.
 
