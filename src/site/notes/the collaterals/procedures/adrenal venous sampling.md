@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/the-collaterals/procedures/adrenal-venous-sampling/"}
 ---
 
-
 [[the collaterals/c.ir.procedures\|← indications & procedures]]
 
 <br>
@@ -13,10 +12,8 @@
 > [!info] definition
 > sampling of blood from the adrenal veins bilaterally and a peripheral vein (e.g. the IVC) to obtain and compare aldosterone:cortisol ratios
 
-
 ### clinical indications
 - suspicion for **primary hyperaldosteronism** (high aldosterone, hypokalemia)
-
 #### alternatives
 
 
