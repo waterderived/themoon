@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/the-collaterals/procedures/superior-hypogastric-nerve-block/"}
 ---
 
-
 [[the collaterals/c.ir.procedures\|← indications & procedures]]
 
 <br>
