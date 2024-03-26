@@ -18,22 +18,23 @@ font-size: 11px;
   padding-right: 0px;
 }
 .navbar-inner {
-	h1 {
-		font-size: 1em;
-	};
+    h1 {
+	font-size: 1em;
+    };
 }	
     //  h1 {
     //   color: black;
     //  }
-    img {
-        display: block !important;
-        margin-left: auto !important;
-        margin-right: auto !important;
-    } 
+	
+img {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+} 
 
-    .markdown-source-view.mod-cm6 .cm-content > * {
-        margin: auto auto !important;
-    }
+h1 {
+    font-size: 28px;
+}
 
 h6 {
 	font-family: var(--font-header-theme);
