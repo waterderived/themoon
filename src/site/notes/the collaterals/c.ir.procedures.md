@@ -147,7 +147,7 @@
 - dialysis catheter management
 
 ### lymphatic
-- [[spaces/med library/thoracic duct embolization\|thoracic duct embolization]]
+- [[the collaterals/procedures/thoracic duct embolization\|thoracic duct embolization]]
 
 
 ### hepatobiliary
