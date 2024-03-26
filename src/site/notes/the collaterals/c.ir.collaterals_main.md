@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/the-collaterals/c-ir-collaterals-main/"}
 ---
 
-
 [[the collaterals\|← home]]
 
 <br>
